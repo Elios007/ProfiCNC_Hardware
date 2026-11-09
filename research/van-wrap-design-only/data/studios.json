@@ -1,0 +1,492 @@
+[
+  {
+    "rank": 1,
+    "name": "CFW Design Labs (Chicago Fleet Wraps)",
+    "website": "https://chicagofleetwraps.com/design-labs/",
+    "location": "Chicago, IL",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Design Labs page describes itself as 'a standalone creative studio' and publishes design-only prices; many clients hire it with no vehicle wrap involved. Note: other CFW pages say design is bundled free with installed wraps / fleet orders of 3+.",
+    "design_pricing": [
+      {"item": "Single vehicle, standard layout", "price": "$500", "source": "https://chicagofleetwraps.com/design-labs/"},
+      {"item": "Full vehicle, custom illustration", "price": "$850", "source": "https://chicagofleetwraps.com/design-labs/"},
+      {"item": "Fleet template system (3+ vehicles)", "price": "$1,500 + $150 per vehicle variation", "source": "https://chicagofleetwraps.com/design-labs/"},
+      {"item": "Flagship custom (murals, fades, cast effects)", "price": "$1,800-$2,500", "source": "https://chicagofleetwraps.com/design-labs/"},
+      {"item": "Overall project range", "price": "$250-$8,500", "source": "https://chicagofleetwraps.com/design-labs/"}
+    ],
+    "deliverables": {
+      "file_formats": [".ai", ".eps", ".svg", ".pdf", ".png"],
+      "vehicle_template": "Vehicle mockups listed as a service; template use not explicitly stated",
+      "print_ready_files": "yes - 'clean SVG/EPS/AI files at full print resolution'",
+      "revisions": "Unlimited until proof approval ('no revision clock')",
+      "turnaround": "From 48 hours (vectors) to 3 weeks (full brand system); page metadata says 48hr-10day"
+    },
+    "file_ownership": "Client owns native art files on delivery (also stated on https://chicagofleetwraps.com/you-own-your-wrap-art/)",
+    "portfolio_urls": ["https://chicagofleetwraps.com/design-labs/", "https://chicagofleetwraps.com/vehicle-wrap-design-chicago/"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://chicagofleetwraps.com/design-labs/",
+    "sources": [
+      "https://chicagofleetwraps.com/design-labs/",
+      "https://chicagofleetwraps.com/you-own-your-wrap-art/",
+      "https://chicagofleetwraps.com/vehicle-wrap-design-chicago/"
+    ],
+    "fetched_directly": false,
+    "notes": "Site not fetched directly (blocked by network proxy); all details from search-result snippets. Turnaround figures conflict between page body and metadata."
+  },
+  {
+    "rank": 2,
+    "name": "Lui Designs",
+    "website": "https://luidesigns.com/",
+    "location": "Surprise, AZ (owner Louie Mangahas, operating since 2010)",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Product page: full wrap design for a work vehicle with print-ready files 'ready for any wrap installer to print and apply'; printing and installation not included.",
+    "design_pricing": [
+      {"item": "Full work-vehicle wrap design (full or partial layout mapped to make/model)", "price": "$650", "source": "https://luidesigns.com/product/vehicle-wrap-design/"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated in search results",
+      "vehicle_template": "Laid out to exact year/make/model panels",
+      "print_ready_files": "yes",
+      "revisions": "Unlimited",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Not stated; files are intended to be taken to any installer",
+    "portfolio_urls": ["https://luidesigns.com/vinyl-graphics-wraps.html"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://luidesigns.com/contact/",
+    "contact_details": "(480) 650-9314, info@luidesigns.com",
+    "sources": [
+      "https://luidesigns.com/product/vehicle-wrap-design/",
+      "https://luidesigns.com/about/",
+      "https://luidesigns.com/contact/"
+    ],
+    "fetched_directly": false,
+    "notes": "Site not fetched directly; local service area listed as Arizona West Valley but work is remote-friendly design."
+  },
+  {
+    "rank": 3,
+    "name": "72hrprint - Vehicle Wrap Design Services",
+    "website": "https://www.72hrprint.com/vehicle-wrap-design/",
+    "location": "Not found in search results (US online printer)",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Listed as a design-only service; 'Once your design is finalized, we provide high-resolution, print-ready files compatible with industry-standard wrap printing.'",
+    "design_pricing": [
+      {"item": "Vehicle wrap design (design only), per unit", "price": "$519.75", "source": "https://www.72hrprint.com/vehicle-wrap-design/", "caveat": "Price text appears garbled on page ('$519,230.25 $519.75'); confirm before ordering"}
+    ],
+    "deliverables": {
+      "file_formats": "High-resolution print-ready files (formats not specified)",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "yes",
+      "revisions": "'A set number of revisions' (number not stated)",
+      "turnaround": "Most designs completed within 72 hours, depending on complexity and proofing"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://www.72hrprint.com/vehicle-wrap-design/",
+    "sources": ["https://www.72hrprint.com/vehicle-wrap-design/"],
+    "fetched_directly": false,
+    "notes": "Site not fetched directly."
+  },
+  {
+    "rank": 4,
+    "name": "The Business Toolkit",
+    "website": "https://www.thebusinesstoolkit.com/vehicle-wrap-design/",
+    "location": "701 Brickell Avenue, Miami, FL 33131",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Sells vehicle wrap design as a standalone package with emailed final files and full copyright transfer.",
+    "design_pricing": [
+      {"item": "Vehicle wrap design package", "price": "$350 (shown discounted from $395)", "source": "https://www.thebusinesstoolkit.com/vehicle-wrap-design/", "caveat": "Page ~2 years old; labels unclear"},
+      {"item": "Vehicle Wrap Design (services listing)", "price": "$350", "source": "https://www.thebusinesstoolkit.com/services/"}
+    ],
+    "deliverables": {
+      "file_formats": ["JPG", "PDF", "AI"],
+      "vehicle_template": "Not stated",
+      "print_ready_files": "Likely (AI/PDF delivered); not explicitly stated as wrap-panelized",
+      "revisions": "1 final design, up to 4 revisions",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Client receives 100% full copyright ownership of the finalized design; company keeps rights to unconfirmed drafts",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://www.thebusinesstoolkit.com/how-it-works/",
+    "sources": [
+      "https://www.thebusinesstoolkit.com/vehicle-wrap-design/",
+      "https://www.thebusinesstoolkit.com/services/"
+    ],
+    "fetched_directly": false,
+    "notes": "General graphic design company, not a wrap specialist. Site not fetched directly."
+  },
+  {
+    "rank": 5,
+    "name": "Vectorio Graphics",
+    "website": "https://vectoriographics.com/vehicle-wrap-design/",
+    "location": "Cape Coral, FL (founder 'Leo')",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Handles custom design and final print-ready files; 'printing and installation are handled by the wrap shop of your choice'; you can take the final file to any print or installation shop.",
+    "design_pricing": [
+      {"item": "All projects", "price": "Custom quote (vehicle type, coverage, complexity, logo cleanup/vectorization)", "source": "https://vectoriographics.com/vehicle-wrap-design/"}
+    ],
+    "deliverables": {
+      "file_formats": ["AI", "PDF", "EPS", "other print-ready formats per printer requirements"],
+      "vehicle_template": "Not stated",
+      "print_ready_files": "yes",
+      "revisions": "Not stated",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Final design files delivered once balance is paid in full; source-file handover not explicitly stated",
+    "portfolio_urls": ["https://vectoriographics.com/vehicle-wrap-design/", "https://vectoriographics.com/"],
+    "notable_clients": ["Upright Aluminum (work truck)", "Warmer Properties (pickup)", "Kerry Pet Sitting (van)"],
+    "portfolio_image_urls": [],
+    "contact_url": "https://vectoriographics.com/vehicle-wrap-design/",
+    "sources": [
+      "https://vectoriographics.com/vehicle-wrap-design/",
+      "https://vectoriographics.com/about-us/",
+      "https://vectoriographics.com/"
+    ],
+    "fetched_directly": false,
+    "notes": "Clients are self-reported. Site not fetched directly."
+  },
+  {
+    "rank": 6,
+    "name": "Fleet Foundry",
+    "website": "https://fleet-foundry.com/",
+    "location": "Not found in search results",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Master vector files released after final proof approval so you can take them to a local wrap shop or wide-format printer; printing is an optional add-on.",
+    "design_pricing": [
+      {"item": "Commercial vehicle wrap design", "price": "Flat rate (amount not shown in search results)", "source": "https://fleet-foundry.com/"}
+    ],
+    "deliverables": {
+      "file_formats": "Master vector files (specific formats not stated)",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "yes - 'print-ready master files'",
+      "revisions": "Up to 3 rounds",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Master vector files released to client after approval",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://fleet-foundry.com/",
+    "sources": ["https://fleet-foundry.com/"],
+    "fetched_directly": false,
+    "notes": "US location not confirmed. Site not fetched directly."
+  },
+  {
+    "rank": 7,
+    "name": "JedHead",
+    "website": "https://jedhead.com/",
+    "location": "Denver, CO area (in-house print, nationwide install network)",
+    "design_only_confirmed": "likely",
+    "design_only_evidence": "Design priced separately as a flat fee; homepage says the design is 'Yours to keep, whoever prints it.' No explicit design-only order page found.",
+    "design_pricing": [
+      {"item": "Wrap design (flat)", "price": "$500", "source": "https://jedhead.com/"},
+      {"item": "Rebuild customer mockup print-ready", "price": "$500", "source": "https://jedhead.com/"},
+      {"item": "Wrap design (Denver city page - conflicts)", "price": "$1,000 flat", "source": "https://jedhead.com/fleet-wraps-denver-colorado"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "Design adapted across fleet",
+      "print_ready_files": "yes (rebuilds mockups print-ready)",
+      "revisions": "Not stated",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Client keeps the design regardless of who prints",
+    "portfolio_urls": ["https://jedhead.com/fleet-graphics"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://jedhead.com/faqs/",
+    "sources": [
+      "https://jedhead.com/",
+      "https://jedhead.com/blog/fleet-wrap-cost-guide",
+      "https://jedhead.com/fleet-wraps-denver-colorado"
+    ],
+    "fetched_directly": false,
+    "notes": "$500 vs $1,000 conflict; confirm design-only availability directly. Site not fetched directly."
+  },
+  {
+    "rank": 8,
+    "name": "Acosta Creative Pro (Anthony Acosta)",
+    "website": "https://acostacreativepro.com/vehicle-wrap-designs/",
+    "location": "Glendale, AZ (per older page)",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Sells 'Custom Vehicle Wrap Design' as a shop item; 'Includes print ready files!'",
+    "design_pricing": [
+      {"item": "Custom Vehicle Wrap Design", "price": "$299", "source": "https://acostacreativepro.com/shop-items/"},
+      {"item": "Vehicle Wrap File Setup (add-on)", "price": "$49", "source": "https://acostacreativepro.com/shop-items/"},
+      {"item": "Premium Design Batch", "price": "$1,500", "source": "https://acostacreativepro.com/shop-items/"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "yes",
+      "revisions": "Not stated",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": ["https://acostacreativepro.com/"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://acostacreativepro.com/",
+    "sources": [
+      "https://acostacreativepro.com/vehicle-wrap-designs/",
+      "https://acostacreativepro.com/shop-items/"
+    ],
+    "fetched_directly": false,
+    "notes": "Pages are ~2.5-3 years old; prices may be stale. No wrap portfolio surfaced. Site not fetched directly."
+  },
+  {
+    "rank": 9,
+    "name": "Cloud Mountain Graphics (WrapPort / CloudMount.ai)",
+    "website": "https://cloudmountaingraphics.com/wrapport",
+    "location": "Colorado Springs, CO",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Sells wrap files separately from full service ('Buying Wrap Files vs. Full Service'); WrapPort 3D studio produces print-ready files you can print elsewhere; includes a 90-day print credit if you print with them.",
+    "design_pricing": [
+      {"item": "Wrap files (WrapPort)", "price": "$3.25 per sq ft of media, $299 minimum, $1,499 maximum (as of Aug 2026)", "source": "https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/"},
+      {"item": "Example: full SUV files", "price": "~$894", "source": "https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/"},
+      {"item": "Market rate for standalone custom design (company's own estimate, not its price)", "price": "$300-$900 per job", "source": "https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/"}
+    ],
+    "deliverables": {
+      "file_formats": "Production-ready panels (not a flattened JPG); format not specified",
+      "vehicle_template": "Real vehicle dimensions; panelized drops laid out for media width; cut paths; install spec",
+      "print_ready_files": "yes",
+      "revisions": "Not stated (self-serve 3D design tool)",
+      "turnaround": "QC'd and delivered within 1 business day"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": ["https://cloudmountaingraphics.com/signs/fleet-graphics"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://cloudmountaingraphics.com/wrapport",
+    "contact_details": "(719) 396-2112",
+    "sources": [
+      "https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/",
+      "https://cloudmountaingraphics.com/wrapport",
+      "https://cloudmountaingraphics.com/signs/fleet-graphics"
+    ],
+    "fetched_directly": false,
+    "notes": "Primarily DIY design-your-own tool producing files; a large van would likely hit the upper part of the range. Site not fetched directly."
+  },
+  {
+    "rank": 10,
+    "name": "Right Look (RightLook)",
+    "website": "https://shop.rightlook.com/products/marketing-design-for-vehicle-wrap",
+    "location": "Not found in search results",
+    "design_only_confirmed": "likely",
+    "design_only_evidence": "Product 'Custom Design for Vehicle Wrap' (MD1000-VW) sells design only; 'Digital files provided upon completion of the design.'",
+    "design_pricing": [
+      {"item": "Custom Design for Vehicle Wrap (from provided artwork)", "price": "$995 regular (sale tag shown, sale price not visible)", "source": "https://shop.rightlook.com/products/marketing-design-for-vehicle-wrap"}
+    ],
+    "deliverables": {
+      "file_formats": "Digital files (formats not stated)",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "Unclear",
+      "revisions": "2 minor revisions",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://shop.rightlook.com/products/marketing-design-for-vehicle-wrap",
+    "sources": ["https://shop.rightlook.com/products/marketing-design-for-vehicle-wrap"],
+    "fetched_directly": false,
+    "notes": "Designs from customer-supplied artwork only. Expensive for what is listed. Site not fetched directly."
+  },
+  {
+    "rank": 11,
+    "name": "Ardor Printing",
+    "website": "https://ardorprinting.com/",
+    "location": "Seattle, WA",
+    "design_only_confirmed": "likely",
+    "design_only_evidence": "Design is always quoted separately; terms let you use the approved design elsewhere once paid and say to ask Ardor for print-ready or editable files if another vendor needs them.",
+    "design_pricing": [
+      {"item": "Full wrap design", "price": "from $1,000", "source": "https://ardorprinting.com/blogs/news/van-wraps-sprinter-transit-promaster"},
+      {"item": "Partial wrap design", "price": "from $650", "source": "https://ardorprinting.com/blogs/news/van-wraps-sprinter-transit-promaster"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated for deliverables (accepts AI/EPS/PDF/SVG input)",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "On request",
+      "revisions": "Not stated",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Client may use final approved design; Ardor retains working files, templates and unchosen concepts (Terms section 06). Fee for releasing files not published.",
+    "portfolio_urls": ["https://ardorprinting.com/pages/seattle-wa-vehicle-wraps-signs"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://ardorprinting.com/pages/how-we-work",
+    "sources": [
+      "https://ardorprinting.com/pages/terms-of-service",
+      "https://ardorprinting.com/pages/faq",
+      "https://ardorprinting.com/blogs/news/van-wraps-sprinter-transit-promaster"
+    ],
+    "fetched_directly": false,
+    "notes": "Design deposits non-refundable. Site not fetched directly."
+  },
+  {
+    "rank": 12,
+    "name": "Wrap World",
+    "website": "https://wrapworld.com/",
+    "location": "Not found in search results",
+    "design_only_confirmed": "unclear",
+    "design_only_evidence": "Customer owns approved design once paid in full; editable source files available on request for a fee. No explicit design-only order found.",
+    "design_pricing": [
+      {"item": "Custom design deposit (non-refundable; first concept + 3 revision rounds)", "price": "$699", "source": "https://wrapworld.com/pages/wrap-101"},
+      {"item": "Setup of customer print-ready files", "price": "$150", "source": "https://wrapworld.com/"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "Production files kept on record; editable source on request for a fee",
+      "revisions": "First concept + 3 rounds",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Customer owns approved design after full payment; editable source files for an unstated fee",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://wrapworld.com/",
+    "sources": ["https://wrapworld.com/pages/wrap-101", "https://wrapworld.com/"],
+    "fetched_directly": false,
+    "notes": "Ask whether a design-only order is accepted and the source-file fee. Site not fetched directly."
+  },
+  {
+    "rank": 13,
+    "name": "LIVE 3D Graphics (Tiffani Lugo)",
+    "website": "https://www.live3dgraphics.com/",
+    "location": "Orlando, FL",
+    "design_only_confirmed": "likely",
+    "design_only_evidence": "Remote vehicle wrap design and print-ready pre-press files for wrap shops, sign companies, contractors and food trucks; offers access to raw design files.",
+    "design_pricing": [
+      {"item": "Wrap design", "price": "Instant quote; no published price found", "source": "https://www.live3dgraphics.com/"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "3D proofs offered",
+      "print_ready_files": "yes (pre-press files)",
+      "revisions": "Not stated",
+      "turnaround": "48 hours for most projects (per a search summary)"
+    },
+    "file_ownership": "Raw design files available (terms not stated)",
+    "portfolio_urls": ["https://www.behance.net/live3dgraphics"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://www.live3dgraphics.com/",
+    "sources": [
+      "https://www.live3dgraphics.com/",
+      "https://www.behance.net/live3dgraphics",
+      "https://www.alignable.com/orlando-fl/live-3d-graphics"
+    ],
+    "fetched_directly": false,
+    "notes": "Behance shows truck, trailer, bus and fleet wraps. Site not fetched directly."
+  },
+  {
+    "rank": 14,
+    "name": "Simplify Graphics",
+    "website": "https://www.simplifygraphics.com/",
+    "location": "US (city not found)",
+    "design_only_confirmed": "likely",
+    "design_only_evidence": "Sells vehicle wrap design with print-ready files to sign companies and wrap shops across the USA; per-project and monthly plans. Aimed at the trade, not end customers.",
+    "design_pricing": [
+      {"item": "Wrap design", "price": "Per-project or monthly plans; no figures found", "source": "https://www.simplifygraphics.com/post/scale-your-wrap-shop-quickly-by-outsourcing-vehicle-wrap-designs"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "Not stated",
+      "print_ready_files": "yes",
+      "revisions": "Not stated",
+      "turnaround": "Not stated"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": ["https://www.simplifygraphics.com/truckwrapdesign"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://www.simplifygraphics.com/",
+    "sources": [
+      "https://www.simplifygraphics.com/",
+      "https://www.simplifygraphics.com/post/scale-your-wrap-shop-quickly-by-outsourcing-vehicle-wrap-designs",
+      "https://www.simplifygraphics.com/post/why-production-ready-design-matters-for-vehicle-wrap-projects"
+    ],
+    "fetched_directly": false,
+    "notes": "May not take direct business customers. Site not fetched directly."
+  },
+  {
+    "rank": 15,
+    "name": "Kinetic Design Co",
+    "website": "https://kineticdesignco.com/",
+    "location": "Colorado (remote services anywhere in the US)",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Handles wrap design and file setup and coordinates with your local wrap shop; does not print or install.",
+    "design_pricing": [
+      {"item": "Wrap design", "price": "Online 'Get Instant Pricing' tool; figures not indexed", "source": "https://kineticdesignco.com/"}
+    ],
+    "deliverables": {
+      "file_formats": "Not stated",
+      "vehicle_template": "Template creation and full-scale file setup",
+      "print_ready_files": "yes - including bleed, overlap and paneling",
+      "revisions": "Not stated",
+      "turnaround": "Initial mockup within a couple of days"
+    },
+    "file_ownership": "Not stated",
+    "portfolio_urls": ["https://kineticdesignco.com/vehicle-wrap-design", "https://kineticdesignco.com/recent-projects", "https://www.instagram.com/kineticdesignco/"],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://kineticdesignco.com/",
+    "sources": [
+      "https://kineticdesignco.com/",
+      "https://kineticdesignco.com/vehicle-wrap-design",
+      "https://www.facebook.com/KINETICdesigns"
+    ],
+    "fetched_directly": false,
+    "notes": "WARNING: Facebook page lists the business as 'Temporarily Closed' / not accepting new clients. Confirm status. Site not fetched directly."
+  },
+  {
+    "rank": 16,
+    "name": "Digital Polo",
+    "website": "https://www.digitalpolo.com/vehicle-wrap-design-service/",
+    "location": "Not confirmed as US",
+    "design_only_confirmed": "yes",
+    "design_only_evidence": "Design-only subscription; vector print-ready output, source files included, white-label.",
+    "design_pricing": [
+      {"item": "Partner plan (unlimited tasks, one active at a time, 48-hr turnaround)", "price": "$399/month", "source": "https://www.digitalpolo.com/white-label-graphic-design/"},
+      {"item": "Soulmate plan (24-hr, dedicated team)", "price": "$899/month", "source": "https://www.digitalpolo.com/white-label-graphic-design/"}
+    ],
+    "deliverables": {
+      "file_formats": ["AI", "EPS", "PDF (bleed, CMYK, outlined text, cut paths)"],
+      "vehicle_template": "Layout templates for common chassis",
+      "print_ready_files": "yes",
+      "revisions": "Unlimited",
+      "turnaround": "48 hours (Partner)"
+    },
+    "file_ownership": "Source files included; files unbranded for resale",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_image_urls": [],
+    "contact_url": "https://www.digitalpolo.com/for-printers/",
+    "sources": [
+      "https://www.digitalpolo.com/vehicle-wrap-design-service/",
+      "https://www.digitalpolo.com/services/print-ready-design/",
+      "https://www.digitalpolo.com/white-label-graphic-design/"
+    ],
+    "fetched_directly": false,
+    "notes": "General unlimited-design subscription; 7-day money-back cited. US base not confirmed. Site not fetched directly."
+  },
+  {
+    "rank": null,
+    "name": "EXCLUDED - design only for their own print jobs / will not release files",
+    "design_only_confirmed": "no",
+    "excluded": [
+      {"name": "EZ Wraps", "website": "https://ezwraps.com/products/custom-vehicle-wrap-design", "reason": "$300 design, 3 revisions, but 'Design Services are for wraps and graphics to be printed by EZ Wraps' and 'We will not release artwork.'"},
+      {"name": "We Print Wraps", "website": "https://weprintwraps.com/our-products/custom-wrap-design/", "reason": "$975 design / $90 hr / $199 file output, but design only for wraps it prints and does not release print-ready artwork."},
+      {"name": "1 Day Wraps", "website": "https://www.shop1dw.com/shop/p/vehicle-wrap-design-van-truck-car", "reason": "From $399 (up to 3 revisions), but design only for wraps printed by 1daywraps.com/shop1dw.com."},
+      {"name": "CWS USA (carwrapsupplier.com)", "website": "https://carwrapsupplier.com/pages/custom-color-car-wrap", "reason": "Designs only what it prints and retains ownership of design files."},
+      {"name": "DesignBub", "website": "https://designbub.com/vehicle-wrap-design-services", "reason": "Full van wrap design $499+, but company HQ is Lahore, Pakistan (not US)."}
+    ]
+  }
+]
