@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Gatorwraps",
+    "website": "https://www.gatorwraps.com (named in search results and trade press; site could not be loaded in this session, so not verified directly)",
+    "status": "Exists - real national vehicle/fleet wrap company (Ontario, California; second location Laguna Hills, Orange County). Data from search results and trade press only; official site fetch was blocked (DNS/network policy: host not in session allowlist).",
+    "pricing": [],
+    "pricing_notes": "Quote only, as far as could be determined. No published prices were found in search results, and the official site could not be loaded to check. No credible third-party price estimate specific to Gatorwraps was found.",
+    "portfolio_urls": [],
+    "notable_clients": [
+      "Kasey Kahne NASCAR vehicle fleet wraps for a Budweiser commercial shoot (per search summary of trade press; the summary spelled it 'Kasey Kane')",
+      "Toy-store delivery truck wrap: first place, Signs of the Times 2011 best service vehicles (https://signsofthetimes.com/best-service-vehicles-2011/)",
+      "Lakewood High School class-project electric vehicle (free wrap) (https://www.textiles.org/?p=126034)"
+    ],
+    "portfolio_images": [],
+    "services": [
+      "Printing and installation of digital film wraps for cars, fleet vehicles, trains and buildings",
+      "Fleet branding (trade article mentions a Gatorwraps fleet-branding guide)",
+      "Full-service marketing/advertising company, established 2006"
+    ],
+    "coverage": "HQ in Ontario, CA, plus a Laguna Hills (Orange County) location (signshop.com). A trade article (yespress.io) reports the company claims an installer network covering all 50 states and eight countries.",
+    "materials": "3M: trade article cites 3M IJ175 vinyl with 3M 8528 gloss laminate, printed on Mutoh eco-solvent printers, as the combination required for its advertised 3M warranty. The same search summary says the article reports a 2026 3M Auto Market Leadership Award (not verified).",
+    "warranty": "Advertises a 3M Tier 1 fleet warranty for commercial printed fleet wraps with gloss laminate, effective October 1, 2024; the roof gets shorter coverage. Source: trade article at https://yespress.io/gatorwraps (from a search summary, not verified on the official site).",
+    "contact": {
+      "phone": ["(877) 338-4848", "(909) 390-1020 (older listing for the Ontario shop)"],
+      "email": null,
+      "quote_form": null
+    },
+    "notes": "All details come from search-engine summaries of third-party/trade pages. Fetching gatorwraps.com failed (ENOTFOUND: host not in this session's network allowlist). Portfolio URLs and image URLs could not be collected for that reason.",
+    "sources": [
+      "https://yespress.io/gatorwraps",
+      "https://www.signshop.com/news/gatorwraps-expands-operations-in-southern-california/",
+      "https://signsofthetimes.com/best-service-vehicles-2011/",
+      "https://www.textiles.org/?p=126034",
+      "https://bigpicturemag.com/if-wrap-fits-drive-it/amp/"
+    ]
+  },
+  {
+    "name": "Skinny Wrap / Fleet Graphics Inc.",
+    "website": null,
+    "status": "Not found as described. No company called 'Skinny Wrap' was found. Closest name matches: (a) SkinzWraps, Inc. (Dallas, TX), a vehicle wrap company that says it pioneered vehicle wrapping in 2001 and ran a fleet wrap program; (b) Fleet Graphics, Inc., a Centerville, Ohio shop that a directory listing says serves southwest Ohio and nationwide. No link between the two names was found. Neither could be verified on its own website, because fetching was blocked.",
+    "pricing": [],
+    "pricing_notes": "Quote only / unknown. No published prices were found for SkinzWraps or Fleet Graphics, Inc. No third-party estimate was found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": [
+      "SkinzWraps: vehicle wrap design and installation, fleet wraps (it reported over 110 fleet vehicles wrapped in Q2-Q3 2010) and exotic-car wraps (ai-online.com, graphics-pro.com, signsofthetimes.com)",
+      "Fleet Graphics, Inc. (Centerville OH): vehicle wraps, posters, window graphics, office signage, decals and print; design, print and install for fleets of any size (directory.yext.com)"
+    ],
+    "coverage": "SkinzWraps: says it works with customers across the U.S. Fleet Graphics, Inc.: southwest Ohio and nationwide, per its directory listing.",
+    "materials": "SkinzWraps used Avery MPI 1005 EZ film on a Dodge Ram project (signsofthetimes.com). Nothing found for Fleet Graphics, Inc.",
+    "warranty": "Not found.",
+    "contact": {"phone": null, "email": null, "quote_form": null},
+    "notes": "Ambiguous identity. The caller should confirm which company is meant. Candidate sites (skinzwraps.com, fleetgraphicsinc.com) could not be loaded: outbound access was blocked by network policy and WebFetch returned ENOTFOUND. Their domains are therefore unverified and not listed as the website.",
+    "sources": [
+      "https://www.ai-online.com/2010/10/skinzwraps-sees-great-success-in-its-fleet-vehicle-wrap-program",
+      "https://graphics-pro.com/feature/skinzwraps-diversifies-into-profitable-new-markets/",
+      "https://signsofthetimes.com/skinzwraps-rocks-a-dodge-ram/amp/",
+      "https://trademarks.justia.com/owners/skinzwraps-inc-1812067",
+      "https://directory.yext.com/en/fleet-graphics-inc-3554652549"
+    ]
+  },
+  {
+    "name": "Aztec Fleet Graphics",
+    "website": null,
+    "status": "Not found. Several searches found no vehicle wrap or fleet graphics company by this name. The only similar names are unrelated: Aztec Graphics Inc (screen printing and embroidery on sportswear since 1977) and Aztec Models (scale-model decals).",
+    "pricing": [],
+    "pricing_notes": "N/A: company not found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": [],
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": {"phone": null, "email": null, "quote_form": null},
+    "notes": "The name may be wrong or refer to a small local shop. Arizona-area fleet wrap companies that came up in the same searches but are NOT 'Aztec': Fleet Wrap HQ (Gilbert, AZ) and FASTSIGNS Mesa.",
+    "sources": [
+      "https://agencyapp.dmbx.aws.gartner.com/profiles/aztec-graphics-inc",
+      "https://clutch.co/profile/fleet-wrap-hq"
+    ]
+  },
+  {
+    "name": "Turbo Images",
+    "website": "https://www.turboimages.com (inferred from search context; fetch failed with ENOTFOUND under network policy, so not verified directly)",
+    "status": "Exists - Canadian fleet graphics specialist founded 1993 by Pier Veilleux. HQ Saint-Georges, QC (G5Y 8C3); trade press also cites Quebec City and Mississauga, ON. Serves all of North America.",
+    "pricing": [],
+    "pricing_notes": "Quote only (trade press describes a bid process in which needs are assessed before a solution is proposed). No published prices or third-party estimates were found.",
+    "portfolio_urls": [],
+    "notable_clients": [
+      "Canada Post: national fleet graphics bid (trucknews.com)",
+      "AC Transit (per search summary of trade press)",
+      "Golden Gate Bridge Transit (per search summary of trade press)",
+      "Kobe Bryant tribute vehicle graphic (signmedia.ca)",
+      "15 wraps honouring truck drivers during COVID-19 (per search summary)"
+    ],
+    "portfolio_images": [],
+    "services": [
+      "Project management",
+      "Graphic design",
+      "Production and digital printing",
+      "On-site installation",
+      "Wrap removal",
+      "Turbo online services"
+    ],
+    "coverage": "North America. Facilities in Saint-Georges/Quebec City area, QC and Mississauga, ON, with installation teams there. Acquired Lettrapub, including its U.S. operation Team Coach Imaging (per search summary).",
+    "materials": "3M. Described as a 3M Certified Platinum supplier; printed on 3M Controltac IJ180-10 film for the Kobe Bryant project (signmedia.ca).",
+    "warranty": "Not found.",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "quote_form": null,
+      "address": "St-Georges, QC G5Y 8C3 (schoolbusfleetdirectory.com)"
+    },
+    "notes": "Official site could not be loaded (network policy), so portfolio pages, image URLs and contact details are missing. Its clients are mostly large fleets (bus, transit, trucking, postal).",
+    "sources": [
+      "https://www.schoolbusfleetdirectory.com/company/239330/turbo-images",
+      "https://digitaloutput.net/focused-on-fleet-graphics/",
+      "https://signmedia.ca/substrates-creating-a-unique-vehicle-graphic-to-commemorate-kobe-bryant/3",
+      "https://www.trucknews.com/transportation/canada-post-awards-fleet-graphics-bid-to-turbo-images/1003116272",
+      "https://www.trucknews.com/transportation/turbo-images-takes-canada-post-s-national-fleet-graphics-bid/1000036928",
+      "https://www.trucknews.com/products/turbo-images-celebrates-15-year-anniversary",
+      "https://signmedia.ca/tag/turbo-images"
+    ]
+  },
+  {
+    "name": "Canopy Graphics",
+    "website": null,
+    "status": "Not found. No vehicle or fleet wrap company called 'Canopy Graphics' turned up in searches. Results were only about generic canopy tent printing or design-marketplace galleries.",
+    "pricing": [],
+    "pricing_notes": "N/A: company not found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": [],
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": {"phone": null, "email": null, "quote_form": null},
+    "notes": "The name may be wrong, or it may refer to a small or local business with no web presence. Do not treat it as a national fleet wrap provider unless the user can supply a URL.",
+    "sources": []
+  }
+]

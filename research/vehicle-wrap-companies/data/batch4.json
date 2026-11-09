@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Vehicle Wrapping Co.",
+    "website": null,
+    "status": "not_found",
+    "pricing": [],
+    "pricing_notes": "No company by this exact name could be identified, so no pricing is available. The name is generic.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": [],
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "Searches for \"Vehicle Wrapping Co\" and \"The Vehicle Wrapping Company\" returned only unrelated providers (SpeedPro, Wrapmate, Tint World, AP Wraps and others). The closest hit was a 2002 Fleet News (UK) article that mentions 'Vehicle Wrapping Services' (Mike Phillips), which may no longer operate. No match was chosen. A location or URL from the requester is needed. Direct page fetching was blocked in this session, so findings come from search results only.",
+    "sources": [
+      "https://www.fleetnews.co.uk/news/2002/5/27/feature-paint-your-fleet-wagon/11439"
+    ]
+  },
+  {
+    "name": "Car Wrap City",
+    "website": "https://carwrapcity.com",
+    "status": "found_partially_verified",
+    "pricing": [],
+    "pricing_notes": "Quote only. Search results showed no published prices; the site's /shop/ page exists, but its contents could not be loaded. No credible third-party estimate specific to this company was found.",
+    "portfolio_urls": [
+      "https://carwrapcity.com/tag/fleet/",
+      "https://carwrapcity.com/category/coverage/partial/page/2/",
+      "https://carwrapcity.com/category/coverage/page/4/"
+    ],
+    "notable_clients": [
+      "Harley Davidson (per site 'Trusted By' section, via search snippet)",
+      "Dallas Cowboys (same)",
+      "Little Caesars (same)",
+      "Texas Roadhouse (same)",
+      "Choctaw police fleet (fleet portfolio entry)",
+      "Crawford Services (Ram truck fleet wrap, fleet portfolio entry)"
+    ],
+    "portfolio_images": [],
+    "services": ["Commercial car wraps", "Fleet wraps (trucks, vans)", "Full and partial wraps", "In-house design and printing", "Print-and-ship wraps nationwide"],
+    "coverage": "Dallas-Fort Worth area; locations in Plano (610 Coit Rd #200) and Sherman (1711 N FM 1417, Ste 800), TX. Offers design and printing to anyone in the U.S. and ships wraps nationwide (per search snippets).",
+    "materials": "3M (site title: '3M Certified Car Wrap Technicians & Materials'); prints all vinyl in-house.",
+    "warranty": "Products page says its printers carry the 3M MCS Warranty. No stated warranty term for finished wraps was found.",
+    "contact": "Hours Mon-Fri 8 AM-5 PM (per search snippet). Phone/email/quote-form URL not confirmed because the site could not be loaded.",
+    "notes": "Founded 2010 (per search snippet). Direct fetch of carwrapcity.com failed (host not reachable from this session's network allowlist), so details come from search-result snippets and no image URLs could be pulled from page HTML.",
+    "sources": [
+      "https://carwrapcity.com",
+      "https://carwrapcity.com/products/",
+      "https://carwrapcity.com/about",
+      "https://carwrapcity.com/tag/fleet/"
+    ]
+  },
+  {
+    "name": "Pixel Werx",
+    "website": null,
+    "status": "ambiguous_best_match",
+    "pricing": [],
+    "pricing_notes": "Quote only (nothing published found). No third-party estimate specific to this company was found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": ["Fleet graphics", "Partial and full wraps", "Food truck wraps", "Promotional wraps", "Large-format UV printing (wall murals, wallcovering, floor graphics, window films/perf)", "Die-cut signage, rigid substrates, dye-sub fabric", "Kitting, shipping, installation"],
+    "coverage": "Minnetonka, Minnesota. Says it has in-house installers plus 'a nationwide network that we can tap into', and can handle single or multiple locations.",
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "Best match: Pixelwerx, a Minnetonka, MN commercial graphics/printing company founded in 2004 by Adam Carver. On June 30, 2025 it acquired the Murals Your Way brand. It is a large-format printer that offers vehicle wraps, not a wrap specialist. Its own domain (likely pixelwerx.com) was NOT verified. The only Pixelwerx content found was on a CloudFront mirror of the Murals Your Way site (d25h1f7w7iqonc.cloudfront.net/answers/pixelwerx). Direct page fetching was blocked in this session.",
+    "sources": [
+      "https://d25h1f7w7iqonc.cloudfront.net/answers/pixelwerx",
+      "https://d25h1f7w7iqonc.cloudfront.net/about-us",
+      "https://d25h1f7w7iqonc.cloudfront.net/inspiration/articles/murals-your-way-now-murals-your-way-by-pixelwerx",
+      "https://www.bbb.org/minnesota/quote/request-murals-your-way-96035789"
+    ]
+  },
+  {
+    "name": "AdCraft Graphics",
+    "website": null,
+    "status": "not_found",
+    "pricing": [],
+    "pricing_notes": "No vehicle-wrap company by this name was found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": [],
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "Searches for \"AdCraft Graphics\" vehicle wraps returned no matching company. The nearest name is Adcraft Decals, Inc. (Cleveland, OH, founded 1961, 11-50 employees), an industrial screen/digital decal manufacturer for aerospace, automotive, medical and electronics markets. Its listing does not mention vehicle wraps, so it is not treated as a match. Similar names that are NOT matches: Adept Graphics (UK), AlphaGraphics (franchise).",
+    "sources": [
+      "https://www.sourceready.com/supplier/detail/adcraft-decals"
+    ]
+  },
+  {
+    "name": "Image360",
+    "website": "https://image360.com",
+    "status": "found_partially_verified",
+    "pricing": [
+      {"item": "Single vehicle wrap (general estimate)", "price": "roughly $2,000 to $5,000", "source": "https://image360.com/franchise/blog/2021/12/21/car-wrapping-business-how-to-start-from-the-experts", "third_party": false},
+      {"item": "Full wrap average (3M page)", "price": "$2,000 to $5,000", "source": "https://zpadr.3m.com/car-wraps-prices", "third_party": true},
+      {"item": "Partial wrap (3M page)", "price": "$1,000 to $3,000", "source": "https://zpadr.3m.com/car-wraps-prices", "third_party": true},
+      {"item": "Average vehicle wrap (Wrapmate)", "price": "about $1,500; smaller wraps from around $1,000", "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/", "third_party": true}
+    ],
+    "pricing_notes": "Quote only at the location level; pricing varies by franchise location. The $2,000-$5,000 figure comes from Image360's franchise-recruitment blog (Dec 2021), not a customer price list. The Charlotte-Pineville location's 'How much is a vehicle wrap' post says only that prices 'can vary drastically' and gives no figure. Figures are paraphrased from search snippets, not verified on the pages.",
+    "portfolio_urls": [
+      "https://image360.com/dublin-oh/fleet-graphics",
+      "https://image360.com/kansas-city-ks-midtown/fleet-graphics",
+      "https://image360.com/pompano-beach-fl/vehicle-graphics",
+      "https://image360.com/lynchburg-va/vehicle-graphics",
+      "https://tampayborcityfl.image360.com/vehicle-graphics/fleet-graphics-and-wraps"
+    ],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": ["Full and partial vehicle wraps", "Fleet graphics", "Vehicle decals and lettering", "Magnetic graphics", "Car-top signs", "Design, printing, installation, removal", "Graphic removal/updates for rebrands"],
+    "coverage": "National franchise network of local centers. Some centers advertise certified vehicle and fleet installation (e.g. Tampa Ybor City), and one handles fleets from a single vehicle up to large fleets (Lynchburg VA page cites a fleet of 100 vans).",
+    "materials": "Not confirmed (pages could not be loaded).",
+    "warranty": "Not confirmed. Pages say wraps are removable without damaging paint.",
+    "contact": "Varies by location. Example: Image360 Charlotte-Pineville 704-844-0552 (free consultation). Find-a-center via image360.com.",
+    "notes": "Direct fetch of image360.com failed (host not reachable from this session's network allowlist), so no image URLs or named clients could be pulled from page HTML. Details come from search snippets of local franchise pages.",
+    "sources": [
+      "https://image360.com/pineville-nc-charlotte/blog/how-much-is-a-vehicle-wrap",
+      "https://image360.com/franchise/blog/2021/12/21/car-wrapping-business-how-to-start-from-the-experts",
+      "https://tampayborcityfl.image360.com/certified-vehicle-and-fleet-installation",
+      "https://image360.com/dublin-oh/fleet-graphics",
+      "https://image360.com/kansas-city-ks-midtown/fleet-graphics",
+      "https://image360.com/lynchburg-va/vehicle-graphics",
+      "https://zpadr.3m.com/car-wraps-prices",
+      "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/"
+    ]
+  }
+]

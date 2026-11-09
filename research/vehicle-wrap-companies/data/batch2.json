@@ -1,0 +1,132 @@
+[
+  {
+    "name": "360 Wraps",
+    "website": null,
+    "status": "Likely defunct. A HireVeterans company profile for '360 Wraps Inc.' (Dallas/Fort Worth) is marked permanently closed, per a search-result summary. No live official website was found. 360wraps.com could not be checked because the session network blocked it.",
+    "pricing": [],
+    "pricing_notes": "No pricing found. The official site could not be loaded and no third-party price estimate specific to this company was found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": "Unverified. A Leadstal listing describes it as an advertising agency, and one review mentions updating wraps on a 40-foot RV.",
+    "coverage": "Listings put it in Dallas/Fort Worth, TX (Leadstal gives the address 775 N Royal Ln, DFW Airport, TX 75261). No evidence of a national installer network.",
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "The name is ambiguous, and no national fleet wrap company called '360 Wraps' was found. Do not confuse it with Image360, the sign franchise. Fetches of 360wraps.com and www.360wraps.com failed because the session's network policy blocked them (proxy 403 / ENOTFOUND), so the site was never viewed. Everything here comes from search-engine summaries, not from the pages themselves.",
+    "sources": [
+      "https://hireveterans.com/company/80982/360-wraps-inc./",
+      "https://leadstal.com/sb/360-wraps"
+    ]
+  },
+  {
+    "name": "AP Wraps",
+    "website": "https://apwraps.com (unverified; inferred from the name, could not be loaded). The content appeared in search on a staging/agency host: https://vehiclewrapping.apacheinteractive.com",
+    "status": "Active, according to search results. Based in Sykesville, MD, with claimed national fleet capability.",
+    "pricing": [
+      {
+        "item": "Vehicle wrap (general range, per a ranked guide on the company's own agency-hosted site)",
+        "price": "$250 to $3,000",
+        "source": "https://vehiclewrapping.apacheinteractive.com/?p=31288",
+        "third_party": false
+      },
+      {
+        "item": "Truck wrap roundup mention ('comparable to full vehicle PPFs'; appears to refer to paint protection film, not a wrap)",
+        "price": "starting above $5,500",
+        "source": "https://vehiclewrapping.apacheinteractive.com/?p=31290",
+        "third_party": false
+      }
+    ],
+    "pricing_notes": "Quote only. The company's Maryland page asks visitors to book a free consultation for a quote. Both figures above come from 'best of' roundup pages that appear to be the company's own SEO content (same host), so they are not independent third-party estimates. Figures come from search-result summaries, not direct page reads.",
+    "portfolio_urls": [
+      "https://vehiclewrapping.apacheinteractive.com/?p=7776"
+    ],
+    "notable_clients": [
+      "Ace Hardware (claimed on site, per search summary)",
+      "Lazo Outdoors (claimed on site, per search summary)",
+      "Powered Perfect (Sykesville, MD; 'reoccurring wrap client' feature post)"
+    ],
+    "portfolio_images": [],
+    "services": "Design, production, installation and removal of vehicle wraps for single vehicles and fleets, covering cars, vans, trucks, buses, food trucks, boats and custom vehicles. Claims turnaround in as little as three days.",
+    "coverage": "Headquartered in Sykesville, MD. Has regional pages for MD, DC, VA, DE, NC (Raleigh, Wilmington), Chicago and Boston, plus a 'National Fleet' page claiming a nationwide installer network.",
+    "materials": "3M (claims to be a 3M Certified Installer)",
+    "warranty": "Two-year workmanship warranty covering peeling and bubbling, on top of 3M product warranties (per search summary)",
+    "contact": {
+      "phone": "(866) 390-6790",
+      "address": "5397 Enterprise St, Sykesville, MD 21784",
+      "email": null,
+      "quote_form": "Free quote / consultation form referenced on the site; URL not verified"
+    },
+    "notes": "A ServiceTitan blog lists an 'AP Graphics' with offices in Ohio and Maryland; it may or may not be the same company. Fetches of www.apwraps.com and vehiclewrapping.apacheinteractive.com failed because the session's network policy blocked them, so no page HTML was read and no image URLs could be pulled. Everything here comes from search-engine summaries.",
+    "sources": [
+      "https://vehiclewrapping.apacheinteractive.com",
+      "https://vehiclewrapping.apacheinteractive.com/?p=32513",
+      "https://vehiclewrapping.apacheinteractive.com/?p=32176",
+      "https://vehiclewrapping.apacheinteractive.com/?p=31288",
+      "https://vehiclewrapping.apacheinteractive.com/?p=31290",
+      "https://vehiclewrapping.apacheinteractive.com/?p=7776",
+      "https://www.servicetitan.com/blog/vehicle-wrap-companies"
+    ]
+  },
+  {
+    "name": "Nationwide Wraps",
+    "website": null,
+    "status": "Not found. No company called 'Nationwide Wraps' turned up in several searches. nationwidewraps.com could not be checked because the session network blocked it.",
+    "pricing": [],
+    "pricing_notes": "No pricing found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": null,
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "The name is generic. Search returned similarly named or nationwide providers instead: National Fleet Graphics (Rochester, MN; nationalfleetgraphics.com), Advertising Vehicles (Blue Ash, OH; in-house and in-network installers across the US), Craftsmen Industries, SuperGraphics, Wrapmate (claims 2,000+ certified installers) and CarWraps.com (Arete Digital Imaging). None of these was confirmed to be 'Nationwide Wraps'. The fetch of www.nationwidewraps.com was blocked (ENOTFOUND / proxy 403).",
+    "sources": [
+      "https://nationalfleetgraphics.com/commercial-vehicle-wraps/",
+      "https://www.advertisingvehicles.com/locations/",
+      "https://dev-lsi.wrapmate.com/pro/installer-network"
+    ]
+  },
+  {
+    "name": "ID Wraps",
+    "website": null,
+    "status": "Not found as a US national fleet wrap company. idwraps.com could not be checked because the session network blocked it.",
+    "pricing": [],
+    "pricing_notes": "No pricing found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": null,
+    "coverage": null,
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "The name is ambiguous. The closest match is 'Wrap ID' (https://wrap-id.ca), a Markham, Ontario shop serving the GTA with commercial and personal wraps, PPF, ceramic coating and tint, using 3M and Avery Dennison. It is not confirmed to be the same company and is not a national US fleet company. Other hits were Idaho ('ID') Tint World and FASTSIGNS locations, iDesign NY (idesignny.com) and the VW ID. Buzz, all unrelated. The fetch of www.idwraps.com was blocked (ENOTFOUND / proxy 403).",
+    "sources": [
+      "https://wrap-id.ca",
+      "https://idesignny.com/services/vehicle-wraps"
+    ]
+  },
+  {
+    "name": "Designer Wraps",
+    "website": "https://www.designerwraps.com (cited in a Big Picture magazine article; could not be loaded)",
+    "status": "Probably active, but unconfirmed. Indeed lists it as founded in 2006 with 11-50 employees and $1M-$5M revenue; the visible reviews date from 2021 and there was one open outside-sales job in NJ.",
+    "pricing": [],
+    "pricing_notes": "Quote only (assumed; no published pricing found). No company-specific third-party estimate was found.",
+    "portfolio_urls": [],
+    "notable_clients": [],
+    "portfolio_images": [],
+    "services": "Vehicle wraps. It acquired Paragon Printing and Graphics, a neighboring apparel and offset print firm, per Big Picture. The Indeed profile says it has applied vinyl to over 12,000 vehicles (text truncated).",
+    "coverage": "Millville, New Jersey. National installer coverage not confirmed.",
+    "materials": null,
+    "warranty": null,
+    "contact": null,
+    "notes": "The fetch of www.designerwraps.com was blocked by the session's network policy (ENOTFOUND / proxy 403), so services, portfolio, images and contact details could not be read. Details come from search summaries of the Big Picture and Indeed pages.",
+    "sources": [
+      "https://bigpicturemag.com/designer-wraps-acquires-paragon-printing-and-graphics/amp/",
+      "https://www.indeed.com/cmp/Designer-Wraps"
+    ]
+  }
+]
