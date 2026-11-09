@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "topic": "Commercial van wrap DESIGN only (print-ready files, no print/install): where to hire and what it costs",
+    "researched": "2026-11-09",
+    "method": "Web search snippets only. Direct site fetches were blocked by the session network proxy (e.g. 99designs.com did not resolve), so prices are as indexed by search and may have changed. Nothing was invented; gaps are marked null or noted.",
+    "currency": "USD unless noted"
+  },
+  "platforms": [
+    {
+      "name": "Fiverr",
+      "url": "https://www.fiverr.com/gigs/car-wrap-design",
+      "model": "gig (fixed-price packages: Basic/Standard/Premium, plus custom offers)",
+      "price_ranges": [
+        {"item": "Van/car wrap gig starting prices (basic tier)", "range": "$15 - $40", "source": "https://www.fiverr.com/wrapexpert4/make-professional-and-eye-catching-your-car-and-vehicle-wrap-design"},
+        {"item": "Example: 'professional van wrap design or car wrap' from", "price": "$15", "source": "https://www.fiverr.com/wrapexpert4/make-professional-and-eye-catching-your-car-and-vehicle-wrap-design"},
+        {"item": "Example: car/van/vehicle wrap design with print-ready files, basic", "price": "$30", "source": "https://www.fiverr.com/draeganwyrm/create-car-wrap-van-wrap-and-vehicle-wrap-design"},
+        {"item": "Example: van or car wrap design from", "price": "$25", "source": "https://www.fiverr.com/mr_____j/design-awesome-wrap-for-your-vehicle"},
+        {"item": "Example: van wrap design from", "price": "$40", "source": "https://www.fiverr.com/alizehgraphicx/make-creative-vehicle-wrap-design-and-truck-wrap"},
+        {"item": "Example: higher-starting van/vehicle wrap gig", "price": "$90", "source": "https://www.fiverr.com/shahidsattar667/design-a-vehicle-quality-branding-car-truck-van-etc"},
+        {"item": "Order values visible in gig reviews", "range": "$50-$100, $100-$200, $200-$400", "source": "https://www.fiverr.com/gigs/car-wrap-design"}
+      ],
+      "deliverables": "Basic tiers typically 2 sides (left/right) only; higher tiers add rear/front/roof, 3D mockup, source files (AI/EPS/PDF) and print-ready files. Example $25 basic: 2 sides, free mockup, all source files, unlimited revisions, 2-day delivery.",
+      "revisions": "Varies by gig: commonly 3 or 'unlimited' in listings",
+      "turnaround": "1-3 days typical per listing (rush add-ons available)",
+      "ownership": "Fiverr ToS default: buyer receives IP rights in delivered work upon payment unless the seller states otherwise on the Gig page; some gigs sell a separate 'For Commercial Use' license instead (perpetual, exclusive, non-transferable) or time-limited versions. Fiverr keeps right to use deliveries for its marketing. Check the gig page and order 'source file' + 'commercial use' extras.",
+      "ownership_sources": ["https://help.fiverr.com/hc/en-us/articles/360011569298--For-Commercial-Use-license-details", "https://terms.law/ToS-Watchdog/freelance-platforms/fiverr/"],
+      "how_to_find_good_designers": [
+        "Search: 'van wrap design', 'vehicle wrap design print ready', 'Sprinter wrap', 'Ford Transit wrap', 'fleet wrap'",
+        "Filters: Seller level (Level 2 / Top Rated), Fiverr Pro, delivery time, budget; check gig reviews for photos of INSTALLED wraps",
+        "Confirm package includes all 4 sides + roof (if needed), vector source files, print-ready PDF at scale, and commercial use",
+        "Ask which template provider they use (Pro Vehicle Outlines / The Bad Wrap) for your exact van"
+      ],
+      "portfolio_urls": ["https://www.fiverr.com/gigs/car-wrap-design", "https://www.fiverr.com/gigs/vehicle-wrap", "https://www.fiverr.com/gigs/wraps"],
+      "pros": ["Cheapest entry point", "Very fast turnaround", "Huge choice of wrap-specialist sellers", "Fixed, transparent packages"],
+      "cons": ["Quality highly variable; low tiers often 2 sides only", "Some sellers lack wrap production knowledge (bleed, panel gaps, door handles)", "Ownership/commercial rights can be gated behind extras", "Service fees added at checkout"]
+    },
+    {
+      "name": "Upwork",
+      "url": "https://www.upwork.com/services/car-wraps",
+      "model": "gig (Project Catalog fixed-price services) or job post (hourly / fixed-price proposals)",
+      "price_ranges": [
+        {"item": "Car wrap service catalog starting prices", "range": "about $10 - $65 per design package (some listings from $30-$50, 'From $39')", "source": "https://www.upwork.com/services/car-wraps"},
+        {"item": "Example service: vehicle/van wrap tiers", "price": "$15 / $25 / $35 (+$10 add-ons for 1-day delivery or 3D mockup); 2 sides, unlimited revisions, 2-day delivery", "source": "https://www.upwork.com/services/product/a-make-professional-vehicle-wrap-design-for-any-vehicle-1385282567511289856"},
+        {"item": "Example service: full-custom car/truck/van wrap", "price": "$450 (3 sides, 3D mockup, source + print-ready files; listing may be dated)", "source": "https://www.upwork.com/services/product/a-professional-and-full-custom-car-truck-or-van-wrap-design-1320922621500493824"},
+        {"item": "Client job post: logo + vehicle wrap design (Feb 2026)", "price": "$150 fixed", "source": "https://www.upwork.com/freelance-jobs/apply/Logo-and-Vehicle-Wrap-Design-Needed-for-Business_~022021858572251638751/"},
+        {"item": "Client job post: car wrap designer", "range": "$10 - $35 / hour", "source": "https://www.upwork.com/freelance-jobs/apply/Car-Wrap-Designer-Needed-for-Creative-Vehicle-Graphics_~022021624941425378312/"},
+        {"item": "Example experienced wrap designer hourly", "price": "$45/hr", "source": "https://upwork.com/o/profiles/browse/?q=vehicle+wrap+design"}
+      ],
+      "deliverables": "Per service/contract: sides covered, 3D mockup, source (AI/EPS) and print-ready files. Define in the contract.",
+      "revisions": "Per listing or negotiated",
+      "turnaround": "2 days+ for catalog services; negotiated for job posts",
+      "ownership": "Upwork terms: upon freelancer's receipt of full payment, work product (except background technology) becomes the client's sole and exclusive property; parties may agree otherwise in writing.",
+      "ownership_sources": ["https://www.upwork.com/legal", "https://terms.law/2023/07/23/upworks-terms-ownership-of-freelancers-work-product/"],
+      "how_to_find_good_designers": [
+        "Post a job titled e.g. 'Print-ready full wrap design for 2024 Ford Transit 250 high roof' and require sign/wrap industry experience",
+        "Browse talent: search 'vehicle wrap design', 'fleet graphics', 'large format'; filter Job Success Score 90%+, Top Rated, hourly rate, past work in category",
+        "Ask for photos of installed wraps, not just mockups; run a small paid test if budget allows"
+      ],
+      "portfolio_urls": ["https://upwork.com/o/profiles/browse/?q=vehicle+wrap+design", "https://www.upwork.com/services/car-wraps"],
+      "pros": ["Clear IP assignment on full payment", "Can hire experienced US/EU sign-industry designers hourly", "Escrow/milestones"],
+      "cons": ["Vetting takes effort", "Price spread very wide", "Client marketplace fee on top"]
+    },
+    {
+      "name": "99designs (by Vista)",
+      "url": "https://99designs.com/pricing/car-truck-van-wrap-design",
+      "model": "contest (Bronze/Silver/Gold/Platinum packages) or 1-to-1 project with a chosen designer",
+      "price_ranges": [
+        {"item": "Car, truck or van wrap contest starting price", "price": "from $349", "source": "https://99designs.com/car-truck-van-wrap-design/contests"},
+        {"item": "Fixed packages range cited in a cost guide (unverified against live 99designs page)", "range": "US$329 - US$899", "source": "https://10kwraps.com/blog-how-much-does-it-cost-to-design-a-vehicle-wrap/"},
+        {"item": "One past contest's Platinum package purchase (single data point, not a list price)", "price": "$1,459", "source": "https://99designs.com/car-truck-van-wrap-design/contests"}
+      ],
+      "deliverables": "Winner provides production-ready files for print/digital at handover; multiple concepts from many designers (example contests: 118 entries from 9 designers; 285 entries from 42 designers).",
+      "revisions": "Feedback rounds during contest; small tweaks allowed in handover stage",
+      "turnaround": "Contest typically about a week (qualifying + final round); exact timeline not confirmed via search",
+      "ownership": "Full copyright transfer: designers own submissions until declared winner; at Design Handover both parties sign a Design Transfer Agreement and copyright transfers to client. Only the chosen design transfers. Refunded contests = no right to use entries.",
+      "ownership_sources": ["https://support.99designs.com/hc/en-us/articles/204761095-How-is-copyright-handled", "https://support.99designs.com/hc/en-us/articles/204760875-What-happens-after-I-choose-a-winner"],
+      "how_to_find_good_designers": [
+        "Run a contest in category 'Car, truck or van wrap'; upload your vehicle template and brand assets",
+        "Higher packages attract higher-level designers; consider 'blind' contest",
+        "Or browse past contest winners and invite / start a 1-to-1 project with a designer whose wrap portfolio fits"
+      ],
+      "portfolio_urls": ["https://99designs.com/car-truck-van-wrap-design/contests", "https://99designs.com/car-truck-van-wrap-design/contests/van-wrap-design-546776"],
+      "pros": ["Many concepts to choose from", "Formal copyright transfer agreement", "Money-back guarantee on contests (per platform)"],
+      "cons": ["Higher cost than gig sites", "Contest designers may not use an accurate vehicle template unless you supply it", "Tier prices not confirmable here"]
+    },
+    {
+      "name": "DesignCrowd",
+      "url": "https://carwrap.designcrowd.com/",
+      "model": "contest (crowd) or fixed-price designer services",
+      "price_ranges": [
+        {"item": "Designer service: Car Wrap Design", "price": "US$199 (5 designs, 1 revision, design files; includes $19 posting fee)", "source": "https://www.designcrowd.com/services/757117/haru_ichiban"},
+        {"item": "Designer service: Car Wrap", "price": "US$99 (3 designs, 1 revision, design files; includes $19 posting fee)", "source": "https://www.designcrowd.com/services/607613/aabirk09"},
+        {"item": "Open car wrap contest budgets seen", "price": "GBP 130 / EUR 130", "source": "https://www.designcrowd.com/jobs/open/corporateidentity/carwrap/"}
+      ],
+      "deliverables": "Design files per service; number of concepts stated per listing",
+      "revisions": "Per listing (examples: 1 revision)",
+      "turnaround": null,
+      "ownership": "Designer owns submissions until selected; on selection the designer signs the Designer/Client Contract transferring all right, title and IP to the client. Client grants DesignCrowd a non-exclusive promo licence. Third-party elements (fonts, stock art) may keep their own rights.",
+      "ownership_sources": ["https://www.designcrowd.com/help/article/who-owns-the-designs", "https://www.designcrowd.com/terms-of-use", "https://www.designcrowd.com/designer-client-contract"],
+      "how_to_find_good_designers": ["Search services for 'car wrap' / 'vehicle wrap'", "Check designer portfolios for van-specific work", "Contest: supply template + exact van spec"],
+      "portfolio_urls": ["https://carwrap.designcrowd.com/", "https://www.designcrowd.com/jobs/open/corporateidentity/carwrap/"],
+      "pros": ["Low fixed prices", "Clear IP transfer contract", "Money-back guarantee claimed"],
+      "cons": ["Smaller wrap-specialist pool", "Few revisions in cheaper services"]
+    },
+    {
+      "name": "Designhill",
+      "url": "https://www.designhill.com/pricing/car-truck-van-vehicle-wraps",
+      "model": "contest (Starter / Fast Track / Standard / Premium) plus 1-to-1 projects",
+      "price_ranges": [
+        {"item": "Van wrap design from", "price": "$299", "source": "https://www.designhill.com/vehicle-wrap-design/van/"},
+        {"item": "Vehicle wrap design fixed packages from", "price": "$299", "source": "https://www.designhill.com/vehicle-wrap-design"},
+        {"item": "Third-party: contest range", "range": "$249 - $999", "source": "https://graphicdesigneye.com/best-designcrowd-alternatives/"}
+      ],
+      "deliverables": "Contest concepts; final files on handover",
+      "revisions": "Unlimited revisions on contest submissions (per Designhill)",
+      "turnaround": null,
+      "ownership": "Designhill states all packages include full copyright ownership of the final design.",
+      "ownership_sources": ["https://www.designhill.com/vehicle-wrap-design"],
+      "how_to_find_good_designers": ["Launch contest in vehicle wrap category; browse van wrap gallery", "Pick Standard/Premium for more experienced designers"],
+      "portfolio_urls": ["https://www.designhill.com/vehicle-wrap-design/van/"],
+      "pros": ["Cheaper contest entry than 99designs", "Full copyright stated"],
+      "cons": ["Exact tier prices not confirmed", "Older pages show conflicting $199 figure"]
+    },
+    {
+      "name": "crowdspring",
+      "url": "https://www.crowdspring.com/vehicle-wrap-design/",
+      "model": "contest (Silver/Gold/Elite/Platinum) or 1-to-1 project",
+      "price_ranges": [
+        {"item": "Vehicle wrap design packages from", "price": "$399", "source": "https://www.crowdspring.com/vehicle-wrap-design/"},
+        {"item": "1-to-1 projects from", "price": "$200", "source": "https://www.crowdspring.com/vehicle-wrap-design/"}
+      ],
+      "deliverables": "Final files after approval; packages include award, platform fee, focus groups, support",
+      "revisions": null,
+      "turnaround": null,
+      "ownership": "Custom legal contract giving full rights; you become full owner of IP after approving final deliverables and paying. Non-winning work stays with designers.",
+      "ownership_sources": ["https://www.crowdspring.com/vehicle-wrap-design/", "https://www.crowdspring.com/pricing/"],
+      "how_to_find_good_designers": ["Browse past vehicle wrap projects", "Use 1-to-1 project with a designer whose wraps you like"],
+      "portfolio_urls": ["https://www.crowdspring.com/vehicle-wrap-design/"],
+      "pros": ["Strong IP contract", "1-to-1 option cheaper than contest"],
+      "cons": ["Smaller pool than 99designs", "Mid-range price"]
+    },
+    {
+      "name": "Dribbble (hire)",
+      "url": "https://dribbble.com/hiring",
+      "model": "direct hire / project inquiry with a designer (freelance projects paid via Dribbble), plus paid job posts",
+      "price_ranges": [
+        {"item": "Platform fee on Dribbble-paid projects (official page as indexed)", "range": "2-5% scaled by project size", "source": "https://dribbble.com/hiring"},
+        {"item": "Job post / Hiring Suite (third-party reported)", "price": "$150/month job post; $300/month Hiring Suite", "source": "https://www.betterteam.com/dribbble"},
+        {"item": "Van wrap design price on Dribbble", "price": null, "note": "No van-wrap-specific price found; designers quote per project"}
+      ],
+      "deliverables": "Negotiated per project",
+      "revisions": "Negotiated",
+      "turnaround": "Negotiated",
+      "ownership": "Not confirmed in search results; put IP assignment + source file delivery in the written agreement.",
+      "ownership_sources": [],
+      "how_to_find_good_designers": ["Browse tags: van_wrap, van_wrap_design, vehicle_wrap_design, car-wrap-design", "Open designer profiles and use 'Hire'/message; verify contact details before paying", "Prefer shots showing installed wraps on real vans"],
+      "portfolio_urls": ["https://dribbble.com/tags/van_wrap_design", "https://dribbble.com/tags/van_wrap", "https://dribbble.com/tags/vehicle_wrap_design", "https://dribbble.com/shots/21643372-Werbe-Flix-Full-Van-Wrap-Design-Vehicle-Wrap-Design", "https://dribbble.com/vanwrapstore", "https://dribbble.com/uwraps"],
+      "pros": ["High visual quality portfolios", "Good for brand-led premium designs"],
+      "cons": ["No fixed wrap pricing", "Many designers are not wrap-production specialists", "Off-platform contact risk"]
+    },
+    {
+      "name": "Behance (Adobe) - Hire / Freelance Services",
+      "url": "https://www.behance.net/hire/services",
+      "model": "direct hire / fixed-price freelance services listings",
+      "price_ranges": [
+        {"item": "Platform fee", "price": "Charged to both client and freelancer; waived if either party has Behance Pro", "source": "https://help.behance.net/hc/en-us/articles/10770324288923-FAQ-What-are-the-fees"},
+        {"item": "Older third-party client fee schedule", "price": "10% + $2 ($1-$500), 5.5% ($501-$2,500), 3% (>$2,500)", "source": "https://www.betterteam.com/uk/behance"},
+        {"item": "Van wrap design price on Behance", "price": null, "note": "No van-wrap-specific price found"}
+      ],
+      "deliverables": "Negotiated",
+      "revisions": "Negotiated",
+      "turnaround": "Negotiated",
+      "ownership": "Not confirmed in search results; specify IP transfer in writing.",
+      "ownership_sources": [],
+      "how_to_find_good_designers": ["Search projects: 'vehicle wrap', 'van wrap', 'Van Wrapping graphics', 'truck wrap design'", "Use Freelance/Project availability filter", "Message designers from project pages"],
+      "portfolio_urls": ["https://www.behance.net/search/projects/vehiclewrap", "https://www.behance.net/search/projects/Van%20Wrapping%20graphics", "https://www.behance.net/search/projects/vehicle%20wraps", "https://www.behance.net/search/projects/vehicle%20wrap%20branding"],
+      "pros": ["Deep portfolios with case studies (e.g. Ford Transit plumbing vans)", "Pro membership removes platform fees"],
+      "cons": ["No standard wrap pricing", "Hiring flow less structured"]
+    },
+    {
+      "name": "DesignBub (wrap design service marketplace)",
+      "url": "https://designbub.com/vehicle-wrap-design-services",
+      "model": "fixed-price design service",
+      "price_ranges": [
+        {"item": "Door / simple decal design", "price": "$149+", "source": "https://designbub.com/vehicle-wrap-design-services"},
+        {"item": "Partial wrap", "price": "$299+", "source": "https://designbub.com/vehicle-wrap-design-services"},
+        {"item": "Full car or van wrap", "price": "$499+", "source": "https://designbub.com/vehicle-wrap-design-services"}
+      ],
+      "deliverables": "Production-aware layouts for cars, vans, trucks, trailers, fleets",
+      "revisions": null, "turnaround": null,
+      "ownership": "Not confirmed",
+      "ownership_sources": [],
+      "how_to_find_good_designers": ["Request quote with van spec and coverage"],
+      "portfolio_urls": ["https://designbub.com/vehicle-wrap-design-services"],
+      "pros": ["Wrap-specific, clear starting prices"], "cons": ["Ownership terms not verified"]
+    },
+    {
+      "name": "72hrprint - design-only vehicle wrap",
+      "url": "https://www.72hrprint.com/vehicle-wrap-design/",
+      "model": "fixed-price design service (design only option)",
+      "price_ranges": [{"item": "Design-only vehicle wrap", "price": "$519.75 per unit", "source": "https://www.72hrprint.com/vehicle-wrap-design/"}],
+      "deliverables": "High-resolution print-ready files compatible with standard wrap printing; set number of revisions",
+      "revisions": "Set number included (count not captured)", "turnaround": null,
+      "ownership": "Delivers print-ready files for use elsewhere (per listing); formal copyright terms not confirmed",
+      "ownership_sources": ["https://www.72hrprint.com/vehicle-wrap-design/"],
+      "how_to_find_good_designers": [], "portfolio_urls": ["https://www.72hrprint.com/vehicle-wrap-design/"],
+      "pros": ["Explicit design-only product with print-ready files"], "cons": ["Higher than gig sites"]
+    },
+    {
+      "name": "Vectorio Graphics / Print Ready Wraps (wrap file specialists)",
+      "url": "https://vectoriographics.com/vehicle-wrap-design/",
+      "model": "quoted design-only service",
+      "price_ranges": [{"item": "Full and partial wraps", "price": null, "note": "Quoted separately; no figure found", "source": "https://vectoriographics.com/vehicle-wrap-design/"}],
+      "deliverables": "Vectorio: print-ready AI/PDF/EPS for any installer. Print Ready Wraps (https://www.printreadywraps.com/): converts AI concepts/sketches/existing art into installer-friendly production files.",
+      "revisions": null, "turnaround": null,
+      "ownership": "Not confirmed", "ownership_sources": [],
+      "how_to_find_good_designers": [], "portfolio_urls": ["https://vectoriographics.com/vehicle-wrap-design/", "https://www.printreadywraps.com/"],
+      "pros": ["Explicitly 'take files to any installer'"], "cons": ["No public pricing"]
+    },
+    {
+      "name": "Pro Vehicle Outlines (PVO) - vehicle templates",
+      "url": "https://www.provehicleoutlines.com/pvo-templates/",
+      "model": "template subscription (for designers/shops)",
+      "price_ranges": [
+        {"item": "North American online 12-month subscription", "price": "$449", "source": "https://www.provehicleoutlines.com/product/pro-vehicle-outlines-2023-online-12-month-subscription/"},
+        {"item": "North American online 6-month subscription", "price": "$349", "source": "https://www.provehicleoutlines.com/product/pro-vehicle-outlines-2023-online-6-month-subscription/"},
+        {"item": "12-month + PVO WrapUP bundle", "price": "$649 list / $549 sale (sale may be expired)", "source": "https://www.provehicleoutlines.com/product/pro-vehicle-outlines-online-12-month-subscription-wrapup/"},
+        {"item": "Reseller (US Cutter) 6-month", "price": "$349 (19,500+ templates, AI format, unlimited downloads)", "source": "https://uscutter.com/pro-vehicle-outlines-north-american-online-6-month-subscription/"}
+      ],
+      "deliverables": "19,500+ scaled vehicle outline templates (AI format); about 1/4 inch accuracy at 1:20 scale",
+      "revisions": null, "turnaround": "Instant download",
+      "ownership": "Licensed templates (subscription); not a design service",
+      "ownership_sources": [],
+      "how_to_find_good_designers": ["Ask your designer if they hold a PVO subscription and which exact template (year/make/model/wheelbase/roof) they will use"],
+      "portfolio_urls": [],
+      "pros": ["Industry-standard accuracy", "Huge library"], "cons": ["Overkill to buy for a single van; no single-template purchase found"]
+    },
+    {
+      "name": "The Bad Wrap - vehicle templates",
+      "url": "https://thebadwrap.com/",
+      "model": "single template purchase or subscription",
+      "price_ranges": [
+        {"item": "Individual template", "price": "$34.99", "source": "https://thebadwrap.com/collections/vehicle-templates-cars"},
+        {"item": "1-year template subscription", "price": "$799", "source": "https://thebadwrap.com/products/1-year-template-subscription"},
+        {"item": "2-year subscription", "price": "$1,399 (renewal listing $937.33)", "source": "https://thebadwrap.com/products/2-year-template-subscription-renewal"},
+        {"item": "Free sample template", "price": "$0", "source": "https://thebadwrap.com/products/free-vehicle-design-template-sample"}
+      ],
+      "deliverables": "Vector vehicle templates; Wrapulator square-footage estimating tool ($199/yr) sold separately",
+      "revisions": null, "turnaround": "Instant download",
+      "ownership": "Licensed templates", "ownership_sources": [],
+      "how_to_find_good_designers": ["Buy the single template for your exact van and hand it to the designer"],
+      "portfolio_urls": ["https://thebadwrap.com/pages/our-bad-wrap-subscription-packages"],
+      "pros": ["Single templates affordable"], "cons": ["Check exact roof/wheelbase variant exists"]
+    },
+    {
+      "name": "Other template sources (Outlines, Solution Print NJ, GravBase, Brandslug)",
+      "url": "https://getoutlines.com/sets/ford-transit-blueprints",
+      "model": "single template purchase / free templates",
+      "price_ranges": [
+        {"item": "Outlines (getoutlines.com) Ford Transit sets", "price": "from $24", "source": "https://getoutlines.com/sets/ford-transit-blueprints"},
+        {"item": "Solution Print NJ Ford Transit medium roof 1:1 template (TIFF)", "price": "$21.99", "source": "https://solutionprintnj.com/products/digital-wrap-template-ford-transit"},
+        {"item": "GravBase 2025 Ford Transit chassis template (1:20, SVG + JPG)", "price": "free", "source": "https://gravbase.com/products/2025-ford-transit-chassis-v16"},
+        {"item": "Brandslug free vehicle templates", "price": "free", "source": "https://brandslug.com/collections/vehicle-templates"}
+      ],
+      "deliverables": "Vehicle outline templates", "revisions": null, "turnaround": "Instant",
+      "ownership": "Licensed templates", "ownership_sources": [],
+      "how_to_find_good_designers": [], "portfolio_urls": [],
+      "pros": ["Cheap or free"], "cons": ["Accuracy varies; verify against roof height and wheelbase"]
+    }
+  ],
+  "market_prices": [
+    {"segment": "Budget gig marketplace (Fiverr/Upwork catalog), typically 2 sides", "range_usd": "$15 - $90 starting; real full-van orders often $100 - $400", "sources": ["https://www.fiverr.com/gigs/car-wrap-design", "https://www.upwork.com/services/car-wraps"]},
+    {"segment": "Upwork full-custom van wrap service", "range_usd": "$450", "sources": ["https://www.upwork.com/services/product/a-professional-and-full-custom-car-truck-or-van-wrap-design-1320922621500493824"]},
+    {"segment": "Contest platforms (99designs, Designhill, crowdspring, DesignCrowd)", "range_usd": "$99 - $899 typical packages; 99designs from $349, Designhill from $299, crowdspring from $399 ($200 1-to-1)", "sources": ["https://99designs.com/car-truck-van-wrap-design/contests", "https://www.designhill.com/vehicle-wrap-design/van/", "https://www.crowdspring.com/vehicle-wrap-design/", "https://www.designcrowd.com/services/757117/haru_ichiban"]},
+    {"segment": "Standalone custom wrap design, US market (wrap-shop view)", "range_usd": "$300 - $900 per job", "sources": ["https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/"]},
+    {"segment": "Design-only services with print-ready files", "range_usd": "$499+ (DesignBub full van) ; $519.75 (72hrprint)", "sources": ["https://designbub.com/vehicle-wrap-design-services", "https://www.72hrprint.com/vehicle-wrap-design/"]},
+    {"segment": "General guide range for design fees", "range_usd": "$200 - $1,500+ (basic ~$200; fully custom/3D mockups $800 - $2,000)", "sources": ["https://10kwraps.com/blog-how-much-does-it-cost-to-design-a-vehicle-wrap/"]},
+    {"segment": "Local shop full-wrap design fee (Seattle example)", "range_usd": "full wrap design from $1,000; partial from $650", "sources": ["https://ardorprinting.com/blogs/news/vehicle-wrap-cost-guide"]},
+    {"segment": "Wrap shops' design (often tied to printing)", "range_usd": "$699 deposit (Wrap World, 1 concept + 3 revisions); $975 (We Print Wraps, 3 revisions, does NOT release files)", "sources": ["https://wrapworld.com/pages/wrap-101", "https://weprintwraps.com/our-products/custom-wrap-design/"]},
+    {"segment": "Buying out shop-made files", "range_usd": "$3.25/sq ft, $299 min, $1,499 max (Cloud Mountain Graphics)", "sources": ["https://cloudmountaingraphics.com/blog/wrap-files-vs-full-service/"]},
+    {"segment": "Print shop setup fee if you bring print-ready files", "range_usd": "$60 - $150 (CWS USA $60; Wrap World $150)", "sources": ["https://carwrapsupplier.com/pages/custom-color-car-wrap", "https://wrapworld.com/pages/wrap-101"]},
+    {"segment": "Context: full cargo van wrap installed (design+print+install)", "range_usd": "$3,500 - $5,500; Sprinter-class $4,000 - $7,000", "sources": ["https://costinsighthub.com/us/auto/how-much-does-a-vehicle-wrap-cost"]},
+    {"segment": "Rush premium", "range_usd": "+20-30%", "sources": ["https://carwraphub.com/blog/custom-car-wrap-pricing"]}
+  ],
+  "brief_checklist": [
+    "Exact vehicle: year, make, model, trim (e.g. 2024 Ford Transit 250 / Mercedes Sprinter 2500), wheelbase (130in/148in/170in ext), roof height (low/medium/high), cargo door config (sliding side door left/right, barn vs lift rear doors, windows or panel)",
+    "Photos of all 4 sides plus measurements of the actual van; note dents, aftermarket racks, ladders, bulkheads, door handles, fuel cap, badges",
+    "Template: specify the template source (Pro Vehicle Outlines, The Bad Wrap, etc.) matched to the exact variant; buy and supply it if the designer doesn't have one; ask designer to verify against your measurements",
+    "Coverage: full wrap, partial (e.g. 3/4 or half), or spot graphics; which sides (driver, passenger, rear, front/hood, roof) - make sure the quote covers all of them",
+    "Brand assets: vector logo (AI/EPS/SVG/PDF), brand colours as Pantone + CMYK, fonts (licensed), photos at high resolution",
+    "Content hierarchy: business name, what you do (3-5 words), phone, website, QR code (test it), licence/registration numbers if required; readable at 50 ft and in 3 seconds",
+    "Deliverables: layered vector source files (AI/EPS) plus print-ready PDF per side, at 1:1 or stated scale (commonly 1:10 or 1:20 with scale noted), CMYK, fonts outlined, raster images embedded at sufficient resolution at final size (typically 100-150 dpi at 1:1), 3-6 in (75-150 mm) bleed beyond panel edges, no critical text across door gaps, handles or body lines",
+    "Mockups: realistic 3D or flat mockup of each side for approval",
+    "Production notes for any shop: panel layout/seam suggestions, colour profile, and a proof PDF; confirm with your chosen local shop which file format, scale and bleed they want before final export",
+    "Revisions and turnaround: number of revision rounds, deadline, rush fees",
+    "Ownership: written full copyright/IP assignment on payment, all source files delivered, commercial use with no restrictions, rights to reuse on other vehicles/fleet; confirm stock images and fonts are licensed for commercial vehicle use",
+    "Avoid design-tied-to-printing deals unless files are released (some shops, e.g. We Print Wraps, do not release print-ready artwork)"
+  ]
+}
