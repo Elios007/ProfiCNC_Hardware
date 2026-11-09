@@ -1,37 +1,131 @@
 [
   {
     "name": "Gatorwraps",
-    "website": "https://www.gatorwraps.com (named in search results and trade press; site could not be loaded in this session, so not verified directly)",
+    "website": "https://www.gatorwraps.com/",
+    "website_verified": true,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "HTTP 200 for homepage, /vehicle-wraps/, /fleet-wraps/, /our-works/fleets/, /gallery/, /3m-wrap-warranty/, /about-us/, /about-us/faqs/, /finance-your-project/, /request-a-quote/. /pricing/ redirects to /sitemap/ (no pricing page). Homepage title: \"Gatorwraps, Inc. - Custom Vehicle Wraps & Fleet Graphics\"."
+    },
     "status": "Exists - real national vehicle/fleet wrap company (Ontario, California; second location Laguna Hills, Orange County). Data from search results and trade press only; official site fetch was blocked (DNS/network policy: host not in session allowlist).",
-    "pricing": [],
-    "pricing_notes": "Quote only, as far as could be determined. No published prices were found in search results, and the official site could not be loaded to check. No credible third-party price estimate specific to Gatorwraps was found.",
-    "portfolio_urls": [],
+    "pricing": [
+      {
+        "item": "Vehicle wrap design",
+        "price": "Included for wraps over 100 sq ft; under 100 sq ft, design and revisions are $95.00 per hour",
+        "source": "https://www.gatorwraps.com/about-us/faqs/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Canopy kits (10x10 / 10x15 / 10x20), not vehicle wraps",
+        "price": "Starting at $1500",
+        "source": "https://www.gatorwraps.com/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Flags (feather/teardrop), not vehicle wraps",
+        "price": "Starting at $65",
+        "source": "https://www.gatorwraps.com/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Table throws, not vehicle wraps",
+        "price": "Starting at $80",
+        "source": "https://www.gatorwraps.com/",
+        "third_party": false,
+        "verified": true
+      }
+    ],
+    "pricing_notes": "Vehicle wraps are quote only (verified): no wrap price on the homepage, /vehicle-wraps/, /fleet-wraps/ or the FAQ. The FAQ says roof and other panels each add to \"the total square foot charge\" but gives no per-square-foot rate. Financing is offered (/finance-your-project/) with no rates shown. The only published dollar figures are the design fee and the non-wrap products listed above.",
+    "portfolio_urls": [
+      "https://www.gatorwraps.com/our-works/fleets/",
+      "https://www.gatorwraps.com/our-works/trucks-trailers/",
+      "https://www.gatorwraps.com/our-works/food-trucks",
+      "https://www.gatorwraps.com/gallery/"
+    ],
     "notable_clients": [
       "Kasey Kahne NASCAR vehicle fleet wraps for a Budweiser commercial shoot (per search summary of trade press; the summary spelled it 'Kasey Kane')",
       "Toy-store delivery truck wrap: first place, Signs of the Times 2011 best service vehicles (https://signsofthetimes.com/best-service-vehicles-2011/)",
       "Lakewood High School class-project electric vehicle (free wrap) (https://www.textiles.org/?p=126034)"
     ],
-    "portfolio_images": [],
+    "portfolio_images": [
+      {
+        "local_path": "portfolio/gatorwraps/PowerProPlumbing_39485_FordTransitMDR_FullWrap.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/PowerProPlumbing_39485_FordTransitMDR_FullWrap.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/Advantage_Plumbing_vehicle_wrap.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/Advantage_Plumbing_vehicle_wrap.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/CSI_Florida_vehicle_wrap.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/CSI_Florida_vehicle_wrap.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/TaberCo_Mercedes_vehicle_wrap.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/TaberCo_Mercedes_vehicle_wrap.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/WhiteMechanical_vehicle_wrap.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/WhiteMechanical_vehicle_wrap.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/Fleet_Mauzy_Promaster.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/Fleet_Mauzy_Promaster.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/USTA_Sprinter.png",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/USTA_Sprinter.png",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      },
+      {
+        "local_path": "portfolio/gatorwraps/EliteRestoration_T250.webp",
+        "image_url": "https://www.gatorwraps.com/wp-content/uploads/2024/05/EliteRestoration_T250.webp",
+        "page_url": "https://www.gatorwraps.com/our-works/fleets/"
+      }
+    ],
     "services": [
       "Printing and installation of digital film wraps for cars, fleet vehicles, trains and buildings",
       "Fleet branding (trade article mentions a Gatorwraps fleet-branding guide)",
       "Full-service marketing/advertising company, established 2006"
     ],
     "coverage": "HQ in Ontario, CA, plus a Laguna Hills (Orange County) location (signshop.com). A trade article (yespress.io) reports the company claims an installer network covering all 50 states and eight countries.",
-    "materials": "3M: trade article cites 3M IJ175 vinyl with 3M 8528 gloss laminate, printed on Mutoh eco-solvent printers, as the combination required for its advertised 3M warranty. The same search summary says the article reports a 2026 3M Auto Market Leadership Award (not verified).",
-    "warranty": "Advertises a 3M Tier 1 fleet warranty for commercial printed fleet wraps with gloss laminate, effective October 1, 2024; the roof gets shorter coverage. Source: trade article at https://yespress.io/gatorwraps (from a search summary, not verified on the official site).",
+    "materials": "3M IJ175 vinyl with 3M 8528 gloss laminate on Mutoh eco-solvent printers (for the Tier 1 warranty), per the warranty page. Every wrap is laminated (FAQ).",
+    "warranty": "Per https://www.gatorwraps.com/3m-wrap-warranty/: 3M/Gatorwraps \"Tier 1\" warranty on all commercial fleet printed wraps using gloss laminate, with 2-3 years horizontal and 5-7 years vertical (depending on zone). It requires 3M IJ175 vinyl plus 3M 8528 gloss laminate printed on Mutoh eco-solvent printers, and is effective from October 1, 2024. The FAQ separately says \"3 year manufacturer warranty and 1 year on install\", and that most wraps last 3-5 years with no guarantee.",
     "contact": {
-      "phone": ["(877) 338-4848", "(909) 390-1020 (older listing for the Ontario shop)"],
-      "email": null,
-      "quote_form": null
+      "phone": "877-338-4848",
+      "email": "sales@gatorwraps.com (homepage); Info@Gatorwraps.com (FAQ)",
+      "hours": "Mon-Fri 8am-5pm",
+      "locations": [
+        "23501 Avenida De La Carlota d, Laguna Hills, CA 92653",
+        "780 S Rochester Ave C, Ontario, CA 91761",
+        "Murrieta, CA 92562",
+        "2837 Maricopa Ave, Lake Havasu City, AZ 86406"
+      ],
+      "quote_form": "https://www.gatorwraps.com/request-a-quote/",
+      "source": "https://www.gatorwraps.com/about-us/ and /about-us/faqs/"
     },
-    "notes": "All details come from search-engine summaries of third-party/trade pages. Fetching gatorwraps.com failed (ENOTFOUND: host not in this session's network allowlist). Portfolio URLs and image URLs could not be collected for that reason.",
+    "notes": "Website, warranty, contact and locations were verified on live pages on 2026-11-09. About page: founded 2006 by Rod Voegele, installs in all 50 states and 8 countries. The (909) 390-1020 number from an older listing does not appear on the pages fetched. 8 images were saved from www.gatorwraps.com/wp-content/uploads/2024/05/, linked on /our-works/fleets/. They are 600x400 flat design proofs or mockups (side, front and rear views on a white background), not photos of installed vehicles. Files with \"Proof\" in the name were skipped, but the rest are in the same style. The /gallery/ page is an Instagram feed whose images sit on scontent.cdninstagram.com, which this session cannot reach, so none were downloaded.",
     "sources": [
       "https://yespress.io/gatorwraps",
       "https://www.signshop.com/news/gatorwraps-expands-operations-in-southern-california/",
       "https://signsofthetimes.com/best-service-vehicles-2011/",
       "https://www.textiles.org/?p=126034",
-      "https://bigpicturemag.com/if-wrap-fits-drive-it/amp/"
+      "https://bigpicturemag.com/if-wrap-fits-drive-it/amp/",
+      "https://www.gatorwraps.com/",
+      "https://www.gatorwraps.com/about-us/",
+      "https://www.gatorwraps.com/about-us/faqs/",
+      "https://www.gatorwraps.com/3m-wrap-warranty/",
+      "https://www.gatorwraps.com/fleet-wraps/",
+      "https://www.gatorwraps.com/our-works/fleets/"
     ]
   },
   {
@@ -50,7 +144,11 @@
     "coverage": "SkinzWraps: says it works with customers across the U.S. Fleet Graphics, Inc.: southwest Ohio and nationwide, per its directory listing.",
     "materials": "SkinzWraps used Avery MPI 1005 EZ film on a Dodge Ram project (signsofthetimes.com). Nothing found for Fleet Graphics, Inc.",
     "warranty": "Not found.",
-    "contact": {"phone": null, "email": null, "quote_form": null},
+    "contact": {
+      "phone": null,
+      "email": null,
+      "quote_form": null
+    },
     "notes": "Ambiguous identity. The caller should confirm which company is meant. Candidate sites (skinzwraps.com, fleetgraphicsinc.com) could not be loaded: outbound access was blocked by network policy and WebFetch returned ENOTFOUND. Their domains are therefore unverified and not listed as the website.",
     "sources": [
       "https://www.ai-online.com/2010/10/skinzwraps-sees-great-success-in-its-fleet-vehicle-wrap-program",
@@ -73,7 +171,11 @@
     "coverage": null,
     "materials": null,
     "warranty": null,
-    "contact": {"phone": null, "email": null, "quote_form": null},
+    "contact": {
+      "phone": null,
+      "email": null,
+      "quote_form": null
+    },
     "notes": "The name may be wrong or refer to a small local shop. Arizona-area fleet wrap companies that came up in the same searches but are NOT 'Aztec': Fleet Wrap HQ (Gilbert, AZ) and FASTSIGNS Mesa.",
     "sources": [
       "https://agencyapp.dmbx.aws.gartner.com/profiles/aztec-graphics-inc",
@@ -82,7 +184,16 @@
   },
   {
     "name": "Turbo Images",
-    "website": "https://www.turboimages.com (inferred from search context; fetch failed with ENOTFOUND under network policy, so not verified directly)",
+    "website": "https://www.turbo-images.com/ (likely: www.turboimages.com 301-redirects there; not loaded because the host is not in the allowlist)",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: https://www.turboimages.com/ answered with HTTP 301 to https://www.turbo-images.com/ (hyphenated), which this session's network policy does not allow. The bare turboimages.com host is also not allowed. The domain does redirect, so the real site is most likely www.turbo-images.com.",
+      "urls_tried": [
+        "https://www.turboimages.com/",
+        "https://turboimages.com/"
+      ]
+    },
     "status": "Exists - Canadian fleet graphics specialist founded 1993 by Pier Veilleux. HQ Saint-Georges, QC (G5Y 8C3); trade press also cites Quebec City and Mississauga, ON. Serves all of North America.",
     "pricing": [],
     "pricing_notes": "Quote only (trade press describes a bid process in which needs are assessed before a solution is proposed). No published prices or third-party estimates were found.",
@@ -112,7 +223,7 @@
       "quote_form": null,
       "address": "St-Georges, QC G5Y 8C3 (schoolbusfleetdirectory.com)"
     },
-    "notes": "Official site could not be loaded (network policy), so portfolio pages, image URLs and contact details are missing. Its clients are mostly large fleets (bus, transit, trucking, postal).",
+    "notes": "Official site could not be loaded (network policy), so portfolio pages, image URLs and contact details are missing. Its clients are mostly large fleets (bus, transit, trucking, postal). | 2026-11-09 re-check: Not verified: https://www.turboimages.com/ answered with HTTP 301 to https://www.turbo-images.com/ (hyphenated), which this session's network policy does not allow. The bare turboimages.com host is also not allowed. The domain does redirect, so the real site is most likely www.turbo-images.com. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
     "sources": [
       "https://www.schoolbusfleetdirectory.com/company/239330/turbo-images",
       "https://digitaloutput.net/focused-on-fleet-graphics/",
@@ -136,7 +247,11 @@
     "coverage": null,
     "materials": null,
     "warranty": null,
-    "contact": {"phone": null, "email": null, "quote_form": null},
+    "contact": {
+      "phone": null,
+      "email": null,
+      "quote_form": null
+    },
     "notes": "The name may be wrong, or it may refer to a small or local business with no web presence. Do not treat it as a national fleet wrap provider unless the user can supply a URL.",
     "sources": []
   }

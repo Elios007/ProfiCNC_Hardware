@@ -21,7 +21,16 @@
   },
   {
     "name": "AP Wraps",
-    "website": "https://apwraps.com (unverified; inferred from the name, could not be loaded). The content appeared in search on a staging/agency host: https://vehiclewrapping.apacheinteractive.com",
+    "website": "Unknown. apwraps.com is a parked domain for sale (HugeDomains), checked 2026-11-09; vehiclewrapping.apacheinteractive.com unreachable.",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "apwraps.com is NOT this company's site: https://apwraps.com/ answers HTTP 302 to https://www.hugedomains.com/domain_profile.cfm?d=apwraps.com, a domain-for-sale listing. vehiclewrapping.apacheinteractive.com failed (proxy CONNECT 502: the upstream host could not be reached). The real AP Wraps website is still unknown.",
+      "urls_tried": [
+        "https://apwraps.com/",
+        "https://vehiclewrapping.apacheinteractive.com/"
+      ]
+    },
     "status": "Active, according to search results. Based in Sykesville, MD, with claimed national fleet capability.",
     "pricing": [
       {
@@ -57,7 +66,7 @@
       "email": null,
       "quote_form": "Free quote / consultation form referenced on the site; URL not verified"
     },
-    "notes": "A ServiceTitan blog lists an 'AP Graphics' with offices in Ohio and Maryland; it may or may not be the same company. Fetches of www.apwraps.com and vehiclewrapping.apacheinteractive.com failed because the session's network policy blocked them, so no page HTML was read and no image URLs could be pulled. Everything here comes from search-engine summaries.",
+    "notes": "A ServiceTitan blog lists an 'AP Graphics' with offices in Ohio and Maryland; it may or may not be the same company. Fetches of www.apwraps.com and vehiclewrapping.apacheinteractive.com failed because the session's network policy blocked them, so no page HTML was read and no image URLs could be pulled. Everything here comes from search-engine summaries. | 2026-11-09 re-check: apwraps.com is NOT this company's site: https://apwraps.com/ answers HTTP 302 to https://www.hugedomains.com/domain_profile.cfm?d=apwraps.com, a domain-for-sale listing. vehiclewrapping.apacheinteractive.com failed (proxy CONNECT 502: the upstream host could not be reached). The real AP Wraps website is still unknown. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
     "sources": [
       "https://vehiclewrapping.apacheinteractive.com",
       "https://vehiclewrapping.apacheinteractive.com/?p=32513",
@@ -112,6 +121,15 @@
   {
     "name": "Designer Wraps",
     "website": "https://www.designerwraps.com (cited in a Big Picture magazine article; could not be loaded)",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: www.designerwraps.com reset the HTTPS connection, and http://www.designerwraps.com/ returned HTTP 406 \"Not Acceptable\" from the site's Mod Security firewall. The site's own server blocks automated requests.",
+      "urls_tried": [
+        "https://www.designerwraps.com/",
+        "http://www.designerwraps.com/"
+      ]
+    },
     "status": "Probably active, but unconfirmed. Indeed lists it as founded in 2006 with 11-50 employees and $1M-$5M revenue; the visible reviews date from 2021 and there was one open outside-sales job in NJ.",
     "pricing": [],
     "pricing_notes": "Quote only (assumed; no published pricing found). No company-specific third-party estimate was found.",
@@ -123,7 +141,7 @@
     "materials": null,
     "warranty": null,
     "contact": null,
-    "notes": "The fetch of www.designerwraps.com was blocked by the session's network policy (ENOTFOUND / proxy 403), so services, portfolio, images and contact details could not be read. Details come from search summaries of the Big Picture and Indeed pages.",
+    "notes": "The fetch of www.designerwraps.com was blocked by the session's network policy (ENOTFOUND / proxy 403), so services, portfolio, images and contact details could not be read. Details come from search summaries of the Big Picture and Indeed pages. | 2026-11-09 re-check: Not verified: www.designerwraps.com reset the HTTPS connection, and http://www.designerwraps.com/ returned HTTP 406 \"Not Acceptable\" from the site's Mod Security firewall. The site's own server blocks automated requests. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
     "sources": [
       "https://bigpicturemag.com/designer-wraps-acquires-paragon-printing-and-graphics/amp/",
       "https://www.indeed.com/cmp/Designer-Wraps"

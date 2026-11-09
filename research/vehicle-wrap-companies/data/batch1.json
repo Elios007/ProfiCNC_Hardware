@@ -2,112 +2,493 @@
   {
     "name": "Wrapmate",
     "website": "https://wrapmate.com/",
+    "website_verified": true,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "HTTP 200 for homepage, /commercial-wraps/, /pricing/, /services/wraps/wrap-your-car/, /fleet/ (redirects to /fleet-graphics/), /warranty/, /gallery/, /press/ and blog.wrapmate.com. Homepage title: \"Vehicle Wraps Designed, Printed & Installed Nationwide | Wrapmate\"."
+    },
     "status": "Active (appears in current search index with 2026-dated content; AI design/pricing platform launched per newsfilecorp release). Site could NOT be fetched directly: wrapmate.com, www.wrapmate.com and lsi.wrapmate.com are blocked by this session's network policy.",
     "pricing": [
-      {"item": "Decals", "price": "starting at $999", "source": "https://wrapmate.com/commercial-wraps/ (via search snippet)", "third_party": false},
-      {"item": "Partial wrap", "price": "starting at $1,500", "source": "https://wrapmate.com/commercial-wraps/ (via search snippet)", "third_party": false},
-      {"item": "Full wrap", "price": "starting at $2,500", "source": "https://wrapmate.com/commercial-wraps/ (via search snippet)", "third_party": false},
-      {"item": "Car: small wrap / full wrap", "price": "Starting at $1,249 / Starting at $3,500", "source": "https://wrapmate.com/services/wraps/wrap-your-car/ (via search snippet)", "third_party": false},
-      {"item": "Vehicle minimum (spot graphics & lettering on cars)", "price": "$749 (trailer minimum $800)", "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/ (via search snippet)", "third_party": false},
-      {"item": "Average vehicle wrap", "price": "about $1,500; smaller wraps from around $1,000", "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/ (via search snippet)", "third_party": false},
-      {"item": "Design (dealer-style pages)", "price": "Start design for $250", "source": "wrapmate.com landing pages (via search snippet; exact URL not confirmed)", "third_party": false},
-      {"item": "Financing", "price": "6-18 month terms; 'as low as $75/month' cited", "source": "https://wrapmate.com/pricing (via search snippet)", "third_party": false}
+      {
+        "item": "Decals (commercial)",
+        "price": "Starting at $999",
+        "source": "https://wrapmate.com/commercial-wraps/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Partial wrap (commercial)",
+        "price": "$999 up to the full-wrap price",
+        "source": "https://wrapmate.com/commercial-wraps/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Full wrap (commercial)",
+        "price": "Starting at $2,500",
+        "source": "https://wrapmate.com/commercial-wraps/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Car: small wrap (25% coverage)",
+        "price": "Starting at $1,249",
+        "source": "https://wrapmate.com/services/wraps/wrap-your-car/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Car: full wrap (100% coverage)",
+        "price": "Starting at $3,500",
+        "source": "https://wrapmate.com/services/wraps/wrap-your-car/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Wraps generally (FAQ)",
+        "price": "Vehicle wraps start at $999, and the average wrap costs about $1,500",
+        "source": "https://wrapmate.com/pricing/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Design fee",
+        "price": "$250 standard; $400 if you need a vector logo",
+        "source": "https://wrapmate.com/pricing/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Payment terms",
+        "price": "50% deposit after design, remaining 50% due on completion",
+        "source": "https://wrapmate.com/pricing/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Price table (May 2026): average wrap / smaller wraps / vehicle minimum / trailer minimum / deposit / removal",
+        "price": "~$1,500 / from $1,000 / $749 / $800 / $299 one-time deposit / $130/hr labor",
+        "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Financing",
+        "price": "as low as $74/mo for qualified buyers",
+        "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/",
+        "third_party": false,
+        "verified": true
+      },
+      {
+        "item": "Full wrap, standard gloss vinyl (blog guidance)",
+        "price": "$1,500-$5,000 depending on vehicle size",
+        "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/",
+        "third_party": false,
+        "verified": true
+      }
     ],
-    "pricing_notes": "Wrapmate publishes starting prices, but the figures differ between pages (search snippets only; pages not loaded). It says pricing is nationwide and depends on vehicle year/make/model/trim and coverage, not location. Price is said to include design, production and installation. No published per-sq-ft or fleet-discount rate found. Exact van price via online quote tool.",
-    "portfolio_urls": ["https://blog.wrapmate.com/?p=1126 (Gallery of Custom Vehicle Vinyl Wraps)", "https://wrapmate.com/press/"],
-    "notable_clients": ["Hickory House Ribs (featured in video, per search)", "Kraus Restoration (fleet project, per SignShop article)", "Home Instead (a wrapmate.com/homeinstead/ landing page exists; relationship not confirmed)"],
-    "portfolio_images": [],
-    "services": ["Full wraps", "Partial wraps", "Decals/lettering", "Fleet wraps with end-to-end fleet management", "Online/AI design and instant pricing", "Rideshare advertising (invested in Wrapify)"],
+    "pricing_notes": "Verified on live pages 2026-11-09. Corrections to the earlier search-snippet data: the partial wrap is listed as \"$999 up to the full-wrap price\" (not \"from $1,500\"), and financing is \"as low as $74/mo\" (not $75). The commercial-wraps page also has an ROI calculator with an example wrap cost of $4,000 and an example investment of $3,500; these are calculator defaults, not prices. The fleet page (/fleet-graphics/) has no prices; it promises \"standardized pricing across the entire country\" and offers a consultation.",
+    "portfolio_urls": [
+      "https://wrapmate.com/commercial-wraps/",
+      "https://wrapmate.com/gallery/",
+      "https://blog.wrapmate.com/gallery/",
+      "https://wrapmate.com/sitemap-gallery.xml"
+    ],
+    "notable_clients": [
+      "Hickory House Ribs (featured in video, per search)",
+      "Kraus Restoration (fleet project, per SignShop article)",
+      "Home Instead (a wrapmate.com/homeinstead/ landing page exists; relationship not confirmed)"
+    ],
+    "portfolio_images": [
+      {
+        "local_path": "portfolio/wrapmate/carousel-tierney-pools.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-tierney-pools.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/carousel-lawn-officers.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-lawn-officers.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/carousel-tlc-handyman.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-tlc-handyman.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/carousel-cruz-properties.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-cruz-properties.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/carousel-jaws-pressure.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-jaws-pressure.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/carousel-veteran-wood.webp",
+        "image_url": "https://wrapmate.com/assets/v4/carousel/carousel-veteran-wood.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/after-hickory-house_1769560298645.webp",
+        "image_url": "https://wrapmate.com/assets/v4/before-after/after-hickory-house_1769560298645.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      },
+      {
+        "local_path": "portfolio/wrapmate/capstone-motorsports.webp",
+        "image_url": "https://wrapmate.com/assets/v4/commercial-wraps/capstone-motorsports.webp",
+        "page_url": "https://wrapmate.com/commercial-wraps/"
+      }
+    ],
+    "services": [
+      "Full wraps",
+      "Partial wraps",
+      "Decals/lettering",
+      "Fleet wraps with end-to-end fleet management",
+      "Online/AI design and instant pricing",
+      "Rideshare advertising (invested in Wrapify)"
+    ],
     "coverage": "Nationwide US; claims 2,000+ vetted 3M installers in 500+ cities across all 50 states (installer requirement: 3+ years experience, 3M Preferred certification).",
     "materials": "Claims exclusively 3M vinyl; 3M-trained installers.",
-    "warranty": "Homepage advertises a 5-year warranty; elsewhere says vinyl lasts 5-7 years with satisfaction guarantee. Full warranty terms not verified.",
-    "contact": "Online quote tool at https://wrapmate.com/pricing. Phone 303-529-9626 appears only on CB Insights (third-party, unverified).",
-    "notes": "All Wrapmate data came from WebSearch snippets because direct fetches were blocked. Portfolio image URLs could not be extracted from page HTML, so none are listed.",
-    "sources": ["https://wrapmate.com/", "https://wrapmate.com/commercial-wraps/", "https://wrapmate.com/services/wraps/wrap-your-car/", "https://wrapmate.com/pricing", "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/", "https://blog.wrapmate.com/?p=1126", "https://www.newsfilecorp.com/release/297308", "https://www.cbinsights.com/investor/wrapmate", "https://graphics-pro.com/news/wrapmate-adds-wrapify/"]
+    "warranty": "Per https://wrapmate.com/warranty/: 1-year installation (workmanship) warranty plus up to 7 years of 3M MCS materials coverage. Materials by film: 3M IJ180 printed wraps up to 7 yrs vertical / up to 1 yr horizontal; 3M 2080 color change up to 7 yrs vertical / up to 3 yrs horizontal; perforated window film 6 months. Non-transferable; requires installation by a Wrapmate Pro; claims to wrapmate.scheduling@wrapmate.com within 48 hours. The fleet page says \"up to a 7-year warranty\"; the homepage says \"up to 5-year warranty\".",
+    "contact": {
+      "phone": "(303) 529-9626",
+      "email": "hello@wrapmate.com",
+      "warranty_claims_email": "wrapmate.scheduling@wrapmate.com",
+      "quote_form": "https://wrapmate.com/quotes/new/",
+      "source": "https://wrapmate.com/ (footer); https://wrapmate.com/warranty/"
+    },
+    "notes": "Website, prices, warranty and contact were verified on live wrapmate.com and blog.wrapmate.com pages on 2026-11-09. The images on /gallery/ and on the individual /gallery/<project>/ pages are hosted on dragstrip-asset-store-prod.s3.us-east-1.amazonaws.com, which this session cannot reach, and their filenames (concept-*.webp) suggest design concepts. They were not downloaded. The 8 saved images come from wrapmate.com/assets/ (the commercial-wraps \"Projects\" carousel, plus one before/after \"after\" photo and one featured project), and they show installed commercial wraps. blog.wrapmate.com/gallery/ had no inline portfolio images in its HTML. wrapmate.com/sitemap-gallery.xml lists about 1,245 gallery URLs.",
+    "sources": [
+      "https://wrapmate.com/",
+      "https://wrapmate.com/commercial-wraps/",
+      "https://wrapmate.com/services/wraps/wrap-your-car/",
+      "https://wrapmate.com/pricing",
+      "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/",
+      "https://blog.wrapmate.com/?p=1126",
+      "https://www.newsfilecorp.com/release/297308",
+      "https://www.cbinsights.com/investor/wrapmate",
+      "https://graphics-pro.com/news/wrapmate-adds-wrapify/",
+      "https://wrapmate.com/pricing/",
+      "https://wrapmate.com/fleet-graphics/",
+      "https://wrapmate.com/warranty/",
+      "https://wrapmate.com/gallery/",
+      "https://blog.wrapmate.com/gallery/"
+    ]
   },
   {
     "name": "FASTSIGNS",
     "website": "https://www.fastsigns.com/",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: www.fastsigns.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page. The host is allowed by the session network, but the site's own bot protection blocks automated requests. The challenge was not bypassed.",
+      "urls_tried": [
+        "https://www.fastsigns.com/"
+      ]
+    },
     "status": "Active franchise network; about 785-790 locations (789 in eight countries per 2025 convention coverage; ~705 US).",
     "pricing": [
-      {"item": "Full professional vehicle wrap (most small businesses)", "price": "$5,000 to $8,500", "source": "https://www.fastsigns.com/blog/about-products/vehicle-graphics/how-much-does-a-vehicle-wrap-cost-in-2026-/ (via search snippet)", "third_party": false},
-      {"item": "Van 'Basic' (rear and front doors)", "price": "$275-$325 + $85 installation", "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf (San Antonio NW franchise only)", "third_party": false},
-      {"item": "Van 1/4 wrap", "price": "$1,500-$1,750 + $500 installation", "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf", "third_party": false},
-      {"item": "Van 1/2 wrap", "price": "$1,750-$1,950 + $750 installation", "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf", "third_party": false},
-      {"item": "Van 3/4 wrap", "price": "$2,000-$2,250 + $900 installation", "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf", "third_party": false},
-      {"item": "Van full wrap (rear, full sides, hood; excludes roof)", "price": "$6,000-$6,500 + $1,350 installation", "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf", "third_party": false}
+      {
+        "item": "Full professional vehicle wrap (most small businesses)",
+        "price": "$5,000 to $8,500",
+        "source": "https://www.fastsigns.com/blog/about-products/vehicle-graphics/how-much-does-a-vehicle-wrap-cost-in-2026-/ (via search snippet)",
+        "third_party": false
+      },
+      {
+        "item": "Van 'Basic' (rear and front doors)",
+        "price": "$275-$325 + $85 installation",
+        "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf (San Antonio NW franchise only)",
+        "third_party": false
+      },
+      {
+        "item": "Van 1/4 wrap",
+        "price": "$1,500-$1,750 + $500 installation",
+        "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf",
+        "third_party": false
+      },
+      {
+        "item": "Van 1/2 wrap",
+        "price": "$1,750-$1,950 + $750 installation",
+        "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf",
+        "third_party": false
+      },
+      {
+        "item": "Van 3/4 wrap",
+        "price": "$2,000-$2,250 + $900 installation",
+        "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf",
+        "third_party": false
+      },
+      {
+        "item": "Van full wrap (rear, full sides, hood; excludes roof)",
+        "price": "$6,000-$6,500 + $1,350 installation",
+        "source": "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf",
+        "third_party": false
+      }
     ],
     "pricing_notes": "Franchise network: pricing set by each location; corporate says each wrap is assessed and quoted individually. The van price tiers come from one franchise's (San Antonio NW) 'projected prices' PDF (undated), seen via search summary rather than a direct PDF load.",
-    "portfolio_urls": ["https://www.fastsigns.com/vehicle-graphics/services/", "https://www.fastsigns.com/products/industry/fleet-graphics-wraps/", "Location-level pages, e.g. https://www.fastsigns.com/clarksville-tn/products/custom-banners-signs-graphics/fleet-graphics-wraps/"],
+    "portfolio_urls": [
+      "https://www.fastsigns.com/vehicle-graphics/services/",
+      "https://www.fastsigns.com/products/industry/fleet-graphics-wraps/",
+      "Location-level pages, e.g. https://www.fastsigns.com/clarksville-tn/products/custom-banners-signs-graphics/fleet-graphics-wraps/"
+    ],
     "notable_clients": [],
     "portfolio_images": [],
-    "services": ["Car wraps", "Truck wraps", "Fleet graphics", "Partial wraps", "Decals/lettering", "Specialty wraps", "Design, production and installation"],
+    "services": [
+      "Car wraps",
+      "Truck wraps",
+      "Fleet graphics",
+      "Partial wraps",
+      "Decals/lettering",
+      "Specialty wraps",
+      "Design, production and installation"
+    ],
     "coverage": "~785-790 locations, US, Canada and other countries; each franchise serves its local area.",
     "materials": "The San Antonio NW price guide is 3M-branded ('3M van price guide'); no corporate statement on materials found.",
     "warranty": "Not found in sources reviewed; varies by location.",
     "contact": "Local franchise phone/quote forms (e.g. Clarksville TN offers an online quote request). No corporate toll-free number found.",
-    "notes": "fastsigns.com pages were not fetched directly (other hosts were blocked by the session network; fetches stopped as instructed). Data from search snippets. No named clients or image URLs found.",
-    "sources": ["https://www.fastsigns.com/vehicle-graphics/services/", "https://www.fastsigns.com/blog/about-products/vehicle-graphics/how-much-does-a-vehicle-wrap-cost-in-2026-/", "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf", "https://www.franchising.com/news/20250221_fastsigns_2025_international_convention_a_landmark_of_growth.html", "https://www.fastsigns.com/clarksville-tn/products/custom-banners-signs-graphics/fleet-graphics-wraps/"]
+    "notes": "fastsigns.com pages were not fetched directly (other hosts were blocked by the session network; fetches stopped as instructed). Data from search snippets. No named clients or image URLs found. | 2026-11-09 re-check: Not verified: www.fastsigns.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page. The host is allowed by the session network, but the site's own bot protection blocks automated requests. The challenge was not bypassed. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
+    "sources": [
+      "https://www.fastsigns.com/vehicle-graphics/services/",
+      "https://www.fastsigns.com/blog/about-products/vehicle-graphics/how-much-does-a-vehicle-wrap-cost-in-2026-/",
+      "https://www.fastsigns.com/sub/57685/documents/3m-van-price-guide-fastsigns-sa-nw-projected-prices.pdf",
+      "https://www.franchising.com/news/20250221_fastsigns_2025_international_convention_a_landmark_of_growth.html",
+      "https://www.fastsigns.com/clarksville-tn/products/custom-banners-signs-graphics/fleet-graphics-wraps/"
+    ]
   },
   {
     "name": "Signarama",
     "website": "https://www.signarama.com/",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: www.signarama.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection, not the session network). The challenge was not bypassed.",
+      "urls_tried": [
+        "https://www.signarama.com/"
+      ]
+    },
     "status": "Active franchise network (location counts vary by source: ~900 in 50+ countries (2014), 800+ in 60 countries (2018), 660-800+ (recent directory)).",
     "pricing": [
-      {"item": "Full wrap, standard cargo van", "price": "$3,025-$6,005", "source": "General commercial pricing guide returned in search (not Signarama-specific; exact URL not pinned)", "third_party": true},
-      {"item": "Partial wrap (van)", "price": "$2,125-$3,675", "source": "Same general guide as above (not Signarama-specific)", "third_party": true},
-      {"item": "Spot graphics / decals", "price": "$1,100-$1,700", "source": "Same general guide as above (not Signarama-specific)", "third_party": true}
+      {
+        "item": "Full wrap, standard cargo van",
+        "price": "$3,025-$6,005",
+        "source": "General commercial pricing guide returned in search (not Signarama-specific; exact URL not pinned)",
+        "third_party": true
+      },
+      {
+        "item": "Partial wrap (van)",
+        "price": "$2,125-$3,675",
+        "source": "Same general guide as above (not Signarama-specific)",
+        "third_party": true
+      },
+      {
+        "item": "Spot graphics / decals",
+        "price": "$1,100-$1,700",
+        "source": "Same general guide as above (not Signarama-specific)",
+        "third_party": true
+      }
     ],
     "pricing_notes": "Quote only. No Signarama-published prices found; pricing set by each franchise. Estimates above are general industry figures, not Signarama's.",
     "portfolio_urls": [],
-    "notable_clients": ["Habitat for Humanity (14 truck wraps, materials donated by Avery Dennison)"],
+    "notable_clients": [
+      "Habitat for Humanity (14 truck wraps, materials donated by Avery Dennison)"
+    ],
     "portfolio_images": [],
-    "services": ["Car and truck wraps (full and partial)", "Fleet graphics", "Custom lettering and decals", "Vehicle magnets", "Perforated window film", "Car-top signs", "Boat graphics"],
+    "services": [
+      "Car and truck wraps (full and partial)",
+      "Fleet graphics",
+      "Custom lettering and decals",
+      "Vehicle magnets",
+      "Perforated window film",
+      "Car-top signs",
+      "Boat graphics"
+    ],
     "coverage": "International franchise network; local franchises serve their area.",
     "materials": "Avery Dennison named Signarama preferred partner (2014 rebranding campaign; 2023 'Wrap Up the Competition' contest with Avery). No 3M link confirmed.",
     "warranty": "Not found.",
     "contact": "Via local franchise; signarama.com not loaded.",
-    "notes": "signarama.com not fetched (network policy). Data from search snippets and press releases.",
-    "sources": ["https://www.franchising.com/news/20180417_signaramareg_car_wraps_offer_costeffective_adverti.html", "https://graphics.averydennison.com/en/home/news/press-releases/5-7-2014.html", "https://graphics.averydennison.com/en/home/news/press-releases/9-18-2012.html", "https://www.franchising.com/news/20230605_signarama_and_avery_dennison_giving_away_10000_worth_of_highvisibility_sign.html", "https://signaramafranchise.com/blog/get-into-a-vehicle-graphics-franchise-with-signarama/"]
+    "notes": "signarama.com not fetched (network policy). Data from search snippets and press releases. | 2026-11-09 re-check: Not verified: www.signarama.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection, not the session network). The challenge was not bypassed. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
+    "sources": [
+      "https://www.franchising.com/news/20180417_signaramareg_car_wraps_offer_costeffective_adverti.html",
+      "https://graphics.averydennison.com/en/home/news/press-releases/5-7-2014.html",
+      "https://graphics.averydennison.com/en/home/news/press-releases/9-18-2012.html",
+      "https://www.franchising.com/news/20230605_signarama_and_avery_dennison_giving_away_10000_worth_of_highvisibility_sign.html",
+      "https://signaramafranchise.com/blog/get-into-a-vehicle-graphics-franchise-with-signarama/"
+    ]
   },
   {
     "name": "SPEEDPRO",
     "website": "https://www.speedpro.com/",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: www.speedpro.com returned HTTP 403 Forbidden from the site's nginx server (the session network allowed the host; the site refused the request).",
+      "urls_tried": [
+        "https://www.speedpro.com/"
+      ]
+    },
     "status": "Active franchise; ~121-130 US studios (121 per FDD at end of 2024; '130-location' per its press releases) plus a Canadian affiliate (speedprocanada.com, ~50 units).",
     "pricing": [
-      {"item": "Full vehicle wrap (SpeedPro Canada guide, 2018)", "price": "Approx. $2000+", "source": "speedprocanada.com (search result; dated 2018, CAD likely)", "third_party": false},
-      {"item": "Partial wrap (SpeedPro Canada guide)", "price": "Approx. $1000+", "source": "speedprocanada.com (same page)", "third_party": false},
-      {"item": "Vinyl graphics / magnets", "price": "$250+ / $100+", "source": "speedprocanada.com (same page)", "third_party": false},
-      {"item": "Car wraps per sq ft incl. installation", "price": "start at $14/square foot", "source": "speedprocanada.com (search result)", "third_party": false},
-      {"item": "Commercial fleet wraps (Oshawa)", "price": "few thousand for partials to $5,000+ for full", "source": "https://speedprocanada.com/oshawa/?p=852", "third_party": false}
+      {
+        "item": "Full vehicle wrap (SpeedPro Canada guide, 2018)",
+        "price": "Approx. $2000+",
+        "source": "speedprocanada.com (search result; dated 2018, CAD likely)",
+        "third_party": false
+      },
+      {
+        "item": "Partial wrap (SpeedPro Canada guide)",
+        "price": "Approx. $1000+",
+        "source": "speedprocanada.com (same page)",
+        "third_party": false
+      },
+      {
+        "item": "Vinyl graphics / magnets",
+        "price": "$250+ / $100+",
+        "source": "speedprocanada.com (same page)",
+        "third_party": false
+      },
+      {
+        "item": "Car wraps per sq ft incl. installation",
+        "price": "start at $14/square foot",
+        "source": "speedprocanada.com (search result)",
+        "third_party": false
+      },
+      {
+        "item": "Commercial fleet wraps (Oshawa)",
+        "price": "few thousand for partials to $5,000+ for full",
+        "source": "https://speedprocanada.com/oshawa/?p=852",
+        "third_party": false
+      }
     ],
     "pricing_notes": "Quote only for US studios (none of the US fleet pages found list prices). Figures above are from Canadian affiliate studios, likely CAD, and partly dated. Pricing set per studio.",
-    "portfolio_urls": ["https://www.speedpro.com/nw-raleigh/fleet-wraps/", "https://www.speedpro.com/norcross/fleet-wraps-that-drive-business-why-companies-trust-speedpro-norcross/", "https://www.speedpro.com/learning-center/faqs/is-there-a-supplier-that-can-print-and-install-fleet-wraps-and-environmental-graphics-nationwide/"],
-    "notable_clients": ["Comcast (600+ Denver-area vehicles, SpeedPro Denver, 2017 feature)", "Colorado DOT 'Bustang' bus fleet (SpeedPro Denver)"],
+    "portfolio_urls": [
+      "https://www.speedpro.com/nw-raleigh/fleet-wraps/",
+      "https://www.speedpro.com/norcross/fleet-wraps-that-drive-business-why-companies-trust-speedpro-norcross/",
+      "https://www.speedpro.com/learning-center/faqs/is-there-a-supplier-that-can-print-and-install-fleet-wraps-and-environmental-graphics-nationwide/"
+    ],
+    "notable_clients": [
+      "Comcast (600+ Denver-area vehicles, SpeedPro Denver, 2017 feature)",
+      "Colorado DOT 'Bustang' bus fleet (SpeedPro Denver)"
+    ],
     "portfolio_images": [],
-    "services": ["Full vehicle wraps", "Partial vehicle wraps", "Decals and lettering", "Pick-up, box truck and trailer graphics", "Fleet wraps", "Environmental/large-format graphics"],
+    "services": [
+      "Full vehicle wraps",
+      "Partial vehicle wraps",
+      "Decals and lettering",
+      "Pick-up, box truck and trailer graphics",
+      "Fleet wraps",
+      "Environmental/large-format graphics"
+    ],
     "coverage": "US studio network; Norcross studio says it can install across multiple markets through a national network of certified installers.",
     "materials": "Pages mention premium cast/calendared vinyl, UV-resistant inks, laminates; no 3M/Avery brand named in sources found.",
     "warranty": "Not found.",
     "contact": "Per-studio contact/quote pages; find a studio at https://www.speedpro.com/find-a-studio/",
-    "notes": "speedpro.com not fetched (network policy). Comcast/Bustang source URL not pinned down exactly (a 2017 SpeedPro Denver feature in search results).",
-    "sources": ["https://www.speedpro.com/nw-raleigh/fleet-wraps/", "https://www.speedpro.com/norcross/fleet-wraps-that-drive-business-why-companies-trust-speedpro-norcross/", "https://speedprocanada.com/oshawa/?p=852", "https://speedprocanada.com/medicine-hat/2026-vehicle-wrap-price-guide/", "https://www.entrepreneur.com/buying-a-franchise/how-his-franchise-expanded-to-115-million-in-revenue", "https://www.businesswire.com/news/home/20250204054035/en"]
+    "notes": "speedpro.com not fetched (network policy). Comcast/Bustang source URL not pinned down exactly (a 2017 SpeedPro Denver feature in search results). | 2026-11-09 re-check: Not verified: www.speedpro.com returned HTTP 403 Forbidden from the site's nginx server (the session network allowed the host; the site refused the request). No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
+    "sources": [
+      "https://www.speedpro.com/nw-raleigh/fleet-wraps/",
+      "https://www.speedpro.com/norcross/fleet-wraps-that-drive-business-why-companies-trust-speedpro-norcross/",
+      "https://speedprocanada.com/oshawa/?p=852",
+      "https://speedprocanada.com/medicine-hat/2026-vehicle-wrap-price-guide/",
+      "https://www.entrepreneur.com/buying-a-franchise/how-his-franchise-expanded-to-115-million-in-revenue",
+      "https://www.businesswire.com/news/home/20250204054035/en"
+    ]
   },
   {
     "name": "Signature Graphics (Omnicom)",
     "website": "https://signaturegraphicsinc.com/",
+    "website_verified": true,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "HTTP 200 for homepage, /branding-capabilities/fleet-branding/ (/fleet-graphics/ redirects there), /commercial-van-graphics/, /view-all-fleet-graphics/, /resources/inspiration-gallery/, /resources/faqs/, /about-us/3m-graphics-partner/, /contact/, /markets/for-large-fleets/. /pricing/ returns 404. Homepage title: \"Signature Graphics | National Fleet Branding Graphics Company\"."
+    },
     "status": "Active; describes itself as part of Omnicom Group (acquired Aug 2007; sits under DAS / Omnicom Specialty Marketing Group). HQ Porter, Indiana (1000 Signature Drive); founded 1986. Older domain signaturegraph.com used for email (per Crunchbase/ZoomInfo).",
     "pricing": [],
-    "pricing_notes": "Quote only. Enterprise fleet-graphics provider; no published prices and no credible third-party estimate found.",
-    "portfolio_urls": ["https://signaturegraphicsinc.com/markets/for-large-fleets/", "https://signaturegraphicsinc.com/branding-capabilities/fleet-branding/bus-graphics/"],
-    "notable_clients": ["Ace Hardware", "Safeway"],
-    "portfolio_images": [],
-    "services": ["Fleet graphics and vehicle wraps (trucks, vans, buses)", "National installation", "brandRESPONSE fleet graphics management software", "Retail and environmental graphics", "Out-of-home media, large-format printing, event marketing"],
+    "pricing_notes": "Quote only (verified). The FAQ (https://signaturegraphicsinc.com/resources/faqs/) says cost depends on material, quantity, manufacturing method and durability, and that a representative should evaluate needs to give an accurate cost. Standard terms: invoice, net 30. Graphics typically quoted F.O.B. Porter, Indiana. The homepage form says \"Complete the form below for pricing information\". No pricing page (/pricing/ returns 404).",
+    "portfolio_urls": [
+      "https://signaturegraphicsinc.com/resources/inspiration-gallery/",
+      "https://signaturegraphicsinc.com/branding-capabilities/fleet-branding/view-all-fleet-graphics/",
+      "https://signaturegraphicsinc.com/markets/for-large-fleets/",
+      "https://signaturegraphicsinc.com/branding-capabilities/fleet-branding/bus-graphics/"
+    ],
+    "notable_clients": [
+      "Ace Hardware",
+      "Safeway"
+    ],
+    "portfolio_images": [
+      {
+        "local_path": "portfolio/signature-graphics/Culligan-1536x886.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/Culligan-1536x886.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/VAN-9-1536x1152.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2024/01/VAN-9-1536x1152.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/TRAILERS-10-1536x1180.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2024/01/TRAILERS-10-1536x1180.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/Ascension-Patient-Transport-1536x862.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/Ascension-Patient-Transport-1536x862.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/DLINK-Electric-Bus-1536x1152.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/DLINK-Electric-Bus-1536x1152.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/Cambria-Truck.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/Cambria-Truck.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/NTEA-Chevy-Cafe-1536x630.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/NTEA-Chevy-Cafe-1536x630.jpg",
+        "page_url": "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+      },
+      {
+        "local_path": "portfolio/signature-graphics/El-Milagro-Trailer-1536x1021.jpg",
+        "image_url": "https://signaturegraphicsinc.com/wp-content/uploads/2021/07/El-Milagro-Trailer-1536x1021.jpg",
+        "page_url": "https://signaturegraphicsinc.com/branding-capabilities/fleet-branding/view-all-fleet-graphics/"
+      }
+    ],
+    "services": [
+      "Fleet graphics and vehicle wraps (trucks, vans, buses)",
+      "National installation",
+      "brandRESPONSE fleet graphics management software",
+      "Retail and environmental graphics",
+      "Out-of-home media, large-format printing, event marketing"
+    ],
     "coverage": "Dedicated installation team across the US; says it can install on-site nationwide and globally.",
-    "materials": "3M partner.",
-    "warranty": "3M MCS Warranty; most installations include a 7-year MCS warranty (per its 3M warranty guide page).",
-    "contact": "Not found in sources (no phone in results); HQ 1000 Signature Drive, Porter, IN 46304.",
-    "notes": "Do not confuse with unrelated Signature Graphics LLC (Scottsdale). Site not fetched (network policy); data from search snippets. Zippia (third-party) estimates ~200 employees, $19.2M revenue.",
-    "sources": ["https://signaturegraphicsinc.com/", "https://signaturegraphicsinc.com/services/graphics-installation/national-installation/", "https://signaturegraphicsinc.com/tested-like-no-other-a-guide-to-3ms-comprehensive-fleet-graphic-warranty/", "https://signaturegraphicsinc.com/services/brand-management/brandresponse/", "https://city-cap.com/080107-signature-graphics-has-been-acquired-by-omnicom-group/", "https://mergr.com/omnicom-group-acquires-signature-graphics", "https://pitchbook.com/profiles/company/93431-26", "https://dasglobal.com/agencies/signature-graphics-inc"]
+    "materials": "3M partner (3M vinyl stated on the fleet-branding page).",
+    "warranty": "Per https://signaturegraphicsinc.com/about-us/3m-graphics-partner/: holds 3M MCS Warranty Certification, \"the highest level of guarantee for the performance of your graphics\". No warranty length in years appears on the pages fetched, so the earlier \"7-year MCS\" claim from search snippets was not confirmed. The fleet-branding page and FAQ say graphics \"can last up to eight or nine years\" depending on material and manufacture.",
+    "contact": {
+      "phone": "(800) 356-3235 (toll free); (219) 926-4994 (direct)",
+      "fax": "(219) 926-7231",
+      "address": "1000 Signature Drive, Porter, IN 46304",
+      "quote_form": "https://signaturegraphicsinc.com/contact/request-a-quote/",
+      "source": "https://signaturegraphicsinc.com/contact/"
+    },
+    "notes": "Website, contact and quote-only status were verified on live pages on 2026-11-09. Do not confuse with the unrelated Signature Graphics LLC (Scottsdale). Omnicom ownership and founding year were not re-checked (/about-us/an-omnicom-company/ was not fetched). Zippia (third-party) estimates about 200 employees and $19.2M revenue. 8 images were saved from signaturegraphicsinc.com/wp-content/uploads (1536-px variants as served in the page HTML): 7 from the inspiration gallery and 1 from view-all-fleet-graphics. The gallery HTML also references an unrelated external PNG (operation-inspirationastute.com), which was ignored.",
+    "sources": [
+      "https://signaturegraphicsinc.com/",
+      "https://signaturegraphicsinc.com/services/graphics-installation/national-installation/",
+      "https://signaturegraphicsinc.com/tested-like-no-other-a-guide-to-3ms-comprehensive-fleet-graphic-warranty/",
+      "https://signaturegraphicsinc.com/services/brand-management/brandresponse/",
+      "https://city-cap.com/080107-signature-graphics-has-been-acquired-by-omnicom-group/",
+      "https://mergr.com/omnicom-group-acquires-signature-graphics",
+      "https://pitchbook.com/profiles/company/93431-26",
+      "https://dasglobal.com/agencies/signature-graphics-inc",
+      "https://signaturegraphicsinc.com/contact/",
+      "https://signaturegraphicsinc.com/resources/faqs/",
+      "https://signaturegraphicsinc.com/about-us/3m-graphics-partner/",
+      "https://signaturegraphicsinc.com/branding-capabilities/fleet-branding/",
+      "https://signaturegraphicsinc.com/resources/inspiration-gallery/"
+    ]
   }
 ]

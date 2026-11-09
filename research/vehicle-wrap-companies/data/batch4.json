@@ -21,6 +21,14 @@
   {
     "name": "Car Wrap City",
     "website": "https://carwrapcity.com",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: carwrapcity.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection). The challenge was not bypassed.",
+      "urls_tried": [
+        "https://carwrapcity.com/"
+      ]
+    },
     "status": "found_partially_verified",
     "pricing": [],
     "pricing_notes": "Quote only. Search results showed no published prices; the site's /shop/ page exists, but its contents could not be loaded. No credible third-party estimate specific to this company was found.",
@@ -38,12 +46,18 @@
       "Crawford Services (Ram truck fleet wrap, fleet portfolio entry)"
     ],
     "portfolio_images": [],
-    "services": ["Commercial car wraps", "Fleet wraps (trucks, vans)", "Full and partial wraps", "In-house design and printing", "Print-and-ship wraps nationwide"],
+    "services": [
+      "Commercial car wraps",
+      "Fleet wraps (trucks, vans)",
+      "Full and partial wraps",
+      "In-house design and printing",
+      "Print-and-ship wraps nationwide"
+    ],
     "coverage": "Dallas-Fort Worth area; locations in Plano (610 Coit Rd #200) and Sherman (1711 N FM 1417, Ste 800), TX. Offers design and printing to anyone in the U.S. and ships wraps nationwide (per search snippets).",
     "materials": "3M (site title: '3M Certified Car Wrap Technicians & Materials'); prints all vinyl in-house.",
     "warranty": "Products page says its printers carry the 3M MCS Warranty. No stated warranty term for finished wraps was found.",
     "contact": "Hours Mon-Fri 8 AM-5 PM (per search snippet). Phone/email/quote-form URL not confirmed because the site could not be loaded.",
-    "notes": "Founded 2010 (per search snippet). Direct fetch of carwrapcity.com failed (host not reachable from this session's network allowlist), so details come from search-result snippets and no image URLs could be pulled from page HTML.",
+    "notes": "Founded 2010 (per search snippet). Direct fetch of carwrapcity.com failed (host not reachable from this session's network allowlist), so details come from search-result snippets and no image URLs could be pulled from page HTML. | 2026-11-09 re-check: Not verified: carwrapcity.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection). The challenge was not bypassed. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
     "sources": [
       "https://carwrapcity.com",
       "https://carwrapcity.com/products/",
@@ -60,7 +74,15 @@
     "portfolio_urls": [],
     "notable_clients": [],
     "portfolio_images": [],
-    "services": ["Fleet graphics", "Partial and full wraps", "Food truck wraps", "Promotional wraps", "Large-format UV printing (wall murals, wallcovering, floor graphics, window films/perf)", "Die-cut signage, rigid substrates, dye-sub fabric", "Kitting, shipping, installation"],
+    "services": [
+      "Fleet graphics",
+      "Partial and full wraps",
+      "Food truck wraps",
+      "Promotional wraps",
+      "Large-format UV printing (wall murals, wallcovering, floor graphics, window films/perf)",
+      "Die-cut signage, rigid substrates, dye-sub fabric",
+      "Kitting, shipping, installation"
+    ],
     "coverage": "Minnetonka, Minnesota. Says it has in-house installers plus 'a nationwide network that we can tap into', and can handle single or multiple locations.",
     "materials": null,
     "warranty": null,
@@ -95,12 +117,40 @@
   {
     "name": "Image360",
     "website": "https://image360.com",
+    "website_verified": false,
+    "website_check": {
+      "date": "2026-11-09",
+      "result": "Not verified: image360.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection). The challenge was not bypassed.",
+      "urls_tried": [
+        "https://image360.com/"
+      ]
+    },
     "status": "found_partially_verified",
     "pricing": [
-      {"item": "Single vehicle wrap (general estimate)", "price": "roughly $2,000 to $5,000", "source": "https://image360.com/franchise/blog/2021/12/21/car-wrapping-business-how-to-start-from-the-experts", "third_party": false},
-      {"item": "Full wrap average (3M page)", "price": "$2,000 to $5,000", "source": "https://zpadr.3m.com/car-wraps-prices", "third_party": true},
-      {"item": "Partial wrap (3M page)", "price": "$1,000 to $3,000", "source": "https://zpadr.3m.com/car-wraps-prices", "third_party": true},
-      {"item": "Average vehicle wrap (Wrapmate)", "price": "about $1,500; smaller wraps from around $1,000", "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/", "third_party": true}
+      {
+        "item": "Single vehicle wrap (general estimate)",
+        "price": "roughly $2,000 to $5,000",
+        "source": "https://image360.com/franchise/blog/2021/12/21/car-wrapping-business-how-to-start-from-the-experts",
+        "third_party": false
+      },
+      {
+        "item": "Full wrap average (3M page)",
+        "price": "$2,000 to $5,000",
+        "source": "https://zpadr.3m.com/car-wraps-prices",
+        "third_party": true
+      },
+      {
+        "item": "Partial wrap (3M page)",
+        "price": "$1,000 to $3,000",
+        "source": "https://zpadr.3m.com/car-wraps-prices",
+        "third_party": true
+      },
+      {
+        "item": "Average vehicle wrap (Wrapmate)",
+        "price": "about $1,500; smaller wraps from around $1,000",
+        "source": "https://blog.wrapmate.com/how-much-do-vehicle-wraps-cost/",
+        "third_party": true
+      }
     ],
     "pricing_notes": "Quote only at the location level; pricing varies by franchise location. The $2,000-$5,000 figure comes from Image360's franchise-recruitment blog (Dec 2021), not a customer price list. The Charlotte-Pineville location's 'How much is a vehicle wrap' post says only that prices 'can vary drastically' and gives no figure. Figures are paraphrased from search snippets, not verified on the pages.",
     "portfolio_urls": [
@@ -112,12 +162,20 @@
     ],
     "notable_clients": [],
     "portfolio_images": [],
-    "services": ["Full and partial vehicle wraps", "Fleet graphics", "Vehicle decals and lettering", "Magnetic graphics", "Car-top signs", "Design, printing, installation, removal", "Graphic removal/updates for rebrands"],
+    "services": [
+      "Full and partial vehicle wraps",
+      "Fleet graphics",
+      "Vehicle decals and lettering",
+      "Magnetic graphics",
+      "Car-top signs",
+      "Design, printing, installation, removal",
+      "Graphic removal/updates for rebrands"
+    ],
     "coverage": "National franchise network of local centers. Some centers advertise certified vehicle and fleet installation (e.g. Tampa Ybor City), and one handles fleets from a single vehicle up to large fleets (Lynchburg VA page cites a fleet of 100 vans).",
     "materials": "Not confirmed (pages could not be loaded).",
     "warranty": "Not confirmed. Pages say wraps are removable without damaging paint.",
     "contact": "Varies by location. Example: Image360 Charlotte-Pineville 704-844-0552 (free consultation). Find-a-center via image360.com.",
-    "notes": "Direct fetch of image360.com failed (host not reachable from this session's network allowlist), so no image URLs or named clients could be pulled from page HTML. Details come from search snippets of local franchise pages.",
+    "notes": "Direct fetch of image360.com failed (host not reachable from this session's network allowlist), so no image URLs or named clients could be pulled from page HTML. Details come from search snippets of local franchise pages. | 2026-11-09 re-check: Not verified: image360.com returned HTTP 403 with a Cloudflare \"Just a moment...\" bot-challenge page (the site's own protection). The challenge was not bypassed. No portfolio images downloaded. All other data in this entry still comes from web-search snippets and is unverified.",
     "sources": [
       "https://image360.com/pineville-nc-charlotte/blog/how-much-is-a-vehicle-wrap",
       "https://image360.com/franchise/blog/2021/12/21/car-wrapping-business-how-to-start-from-the-experts",
